@@ -185,7 +185,7 @@
 		"21_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
 		"25_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1
 	},
-	"next_comment_id": 78,
+	"next_comment_id": 81,
 	"comment": {
 		"1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
 			{
@@ -656,6 +656,11 @@
 				"comment_id": 77,
 				"body": "> [p2p](#comment_1294_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): @60谢谢！我给你超级版主权限吧，公钥是60这个ZeroID对应的身份地址，还是你给个更安全的身份地址？有时间可以更新一下置顶贴和FAQ修改帖子、管理论坛前请备份全站数据修改帖子、管理论坛的方法请见这个帖子下我跟leaflet的对话http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:31_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ\n\n60@zeroid.bit这个身份地址是足够安全的",
 				"added": 1553089157
+			},
+			{
+				"comment_id": 78,
+				"body": "> [p2p](#comment_1296_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 已经给了超版权限，你可以试试再次提醒：修改帖子、管理论坛前请备份全站数据\n\n这里有个备份,打算周更\nhttps://github.com/ZnCl2/NewGFWTalk.bit.archive\n\n如果你愿意的话把GitHub用户名给我,我把你拉进 https://github.com/ZnCl2 里\n未来打算在这个GitHub的org里再加一些像zitelist, blocklist, 常用脚本, 各种备份之类的",
+				"added": 1553095750
 			}
 		],
 		"31_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
@@ -663,6 +668,16 @@
 				"comment_id": 76,
 				"body": "@p2p 谢邀,提一个关于管理权限的建议\n一旦有管理权限的人肉身被抓或者被py了(但好像就当前gov对zn的重视程度好像不至于),就会造成毁灭性的后果\n所以提出一种方案:\n```\n所有有管理权限的人都应该有一个保管的相当安全的pgp,并且如果这个pgp过期或者revoke应当及时更新\n有管理权限的人一旦被抓应当立刻在这个pgp上加上一个身份信息,名字为自己当前情况,邮箱为\"admin_priv_nuke_我的zeroid@NewGFWTalk.bit\"然后上传至keyserver\n有撤销管理权限的人一旦发现有这种情况出现应当立刻撤销此人的管理员权限,除非他能以zeronet之外的手段能证明自己重新取得了对这个zeroid的掌控\n```\n举个例子: 我的pgp是0x23333333(Hash=7248091E43753F678371E32BD2BA1678 Fingerprint=6DC8 9DAD 449E 54FC EEB5  AD90 428D F466 2333 3333)如果有一天突然多出来一个名字为\"我被抓了\",邮箱为\"admin_priv_nuke_60@NewGFWTalk.bit\"的身份,就说明我对当前这个60@zeroid.bit已经没有掌控能力了\n\n之所以想采用pgp keyserver是因为keyserver上的数据会被发放到各个keyserver而且数据难以抹除,而且用着比区块链方便",
 				"added": 1553089109
+			},
+			{
+				"comment_id": 79,
+				"body": "> [p2p](#comment_1295_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 多谢提供思路。但是实际操作起来不是很现实。因为版主被抓后，自然没有办法更新pgp上的信息。对于版主被抓的情况，实质上跟版主变得独裁、专断是一个性质，所以主帖里我说的如何避免独裁、专断也适用该情况。请看： [...]\n\n的确可操作性不高,这个思路主要一是避免版主的masterseed成为单点故障二是如果版主被警方约谈但还没被抓他可以采取这种方式既保护网站内容的安全也保护自己的人身安全(因为他已经没有权限了,各种刑讯逼供没有意义了,警方就会放人)\n\n我弄了一个快照在 https://github.com/ZnCl2/NewGFWTalk.bit.archive\n我脆弱的服务器已经忍受不了下一个计划任务啦( ͡° ͜ʖ ͡°),所以我打算手动周更",
+				"added": 1553097976
+			},
+			{
+				"comment_id": 80,
+				"body": "multisig的功能老外应该是鸽了,因为这个涉及到zeronet代码大动,而且也不安全,因为这个权限一旦给出去就收不回来了,而且搞不好还容易自己被踢出去\n\n而nested是可行的,现在已经通过merge实现了,一个例子就是gitcenter",
+				"added": 1553098365
 			}
 		]
 	},

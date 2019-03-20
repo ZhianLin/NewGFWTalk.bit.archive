@@ -1,5 +1,5 @@
 {
-	"next_topic_id": 2,
+	"next_topic_id": 3,
 	"topic": [
 		{
 			"topic_id": 1,
@@ -7,6 +7,13 @@
 			"body": "`public01public02public03public04public05public06public07public08`\n这个是可以人脑记忆的,方便在不在家时在 https://0net.io 之类的地方用\n对应的zeroid是publicid@zeroid.bit\n最后祝您身体健康🤔",
 			"added": 1551178808,
 			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 2,
+			"title": "测试一下管理员删帖功能",
+			"body": "我先用这个公共id发一条内容,然后把它手动删掉,使用60@zid的签名而非publicid@zid的签名",
+			"added": 1553102322,
+			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		}
 	],
 	"topic_vote": {
