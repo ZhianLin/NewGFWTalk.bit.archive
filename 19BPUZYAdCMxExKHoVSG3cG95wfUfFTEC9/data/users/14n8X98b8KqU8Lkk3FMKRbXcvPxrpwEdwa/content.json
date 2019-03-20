@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "HKMGFQeBRjAQcuOyL0WxOTxDgJesh9CVXKMRCIBLUX4xyusrUtBUUlJZpMTPd0fvVhEAxvU41BdZ6gNLZXR0uRo=",
+ "cert_user_id": "tianfop@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "da9a705508bf05c14d4313e543d8b116d80a857b46d5897fd624f17eea1626bf",
+   "size": 704
+  }
+ },
+ "inner_path": "data/users/14n8X98b8KqU8Lkk3FMKRbXcvPxrpwEdwa/content.json",
+ "modified": 1534333753,
+ "signs": {
+  "14n8X98b8KqU8Lkk3FMKRbXcvPxrpwEdwa": "HDPgKFSz9TwLzH45qqc3C1xImoA4k5FjCotCas1Fa9tsbe3lSEnXJviTCTqsCGFpjEeJgxz4vvcuSJ2e2jiYrSA="
+ }
+}

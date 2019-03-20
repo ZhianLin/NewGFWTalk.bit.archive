@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1NhjSMRJK1jeJ7hyqomCmpfLnZ8KkrTeJd": [
+			{
+				"comment_id": 1,
+				"body": "确实不错哦,,清晰度极高!",
+				"added": 1546865930
+			}
+		]
+	},
+	"comment_vote": {}
+}

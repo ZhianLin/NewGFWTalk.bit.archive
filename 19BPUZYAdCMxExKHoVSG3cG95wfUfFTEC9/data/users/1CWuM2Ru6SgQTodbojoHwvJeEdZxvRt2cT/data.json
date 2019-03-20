@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"8_18cRWp8EGniDTB1itbx5WXenypdjStLmoh": [
+			{
+				"comment_id": 1,
+				"body": "打开无界浏览VPN全局代理就有很多节点。",
+				"added": 1550665483
+			}
+		],
+		"1_1MnknYLJ6Lhd7EECW3Tf8x6Z4ya2DFcELU": [
+			{
+				"comment_id": 2,
+				"body": "轮子的无界浏览，速度很快，不过轮子有毒，注意身体。",
+				"added": 1550910188
+			}
+		]
+	},
+	"comment_vote": {}
+}

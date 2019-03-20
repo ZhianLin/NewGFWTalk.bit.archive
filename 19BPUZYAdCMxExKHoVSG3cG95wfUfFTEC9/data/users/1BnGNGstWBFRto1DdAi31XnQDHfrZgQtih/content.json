@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "G9AOUcoAw3m/Qe8DqcxO9zjhhkD17wpW9vyLtCj1jfGEhE5nxubYypUfQG4p44VrQFWRpo7wNXC67fW/YVNoxgM=",
+ "cert_user_id": "zeromobilicorpus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1b5fea884c371c830e4b385406bc728da59ad2cd99dfba06926a29600e0e698d",
+   "size": 28298
+  }
+ },
+ "inner_path": "data/users/1BnGNGstWBFRto1DdAi31XnQDHfrZgQtih/content.json",
+ "modified": 1515580375,
+ "signs": {
+  "1BnGNGstWBFRto1DdAi31XnQDHfrZgQtih": "G+1MlSXpOmscmC7l44JmOQERnssm3FxECzv5I8gukWxzcFkee3brigO0r5Hoi240F2VNijhJOCwla9GAiULeUIA="
+ }
+}

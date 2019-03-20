@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "HLFDN35AMJ39PWfrmWWvtS+YDxhSNdDWJ6OHLHn6id/a5uAu46DleBPH2c6rRSJBrBBP/LrmfOtN691MfADHV78=",
+ "cert_user_id": "caracalla@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "615e0e1814a21cbd0bf555df1199b716dbd1fa7a7ba01d12eeec4315eccbb771",
+   "size": 2731
+  }
+ },
+ "inner_path": "data/users/1NUPxZD5kGC1RiuppDV1iRtNukZS5oZqw5/content.json",
+ "modified": 1550523444,
+ "signs": {
+  "1NUPxZD5kGC1RiuppDV1iRtNukZS5oZqw5": "G072lcp9dp12q4lc0kSbWQSJm6wXcMkvOvoc9c2yn0AUNVXeJuLrbwO8q2Nn+Set4furLHgJCRB3j42AJK0tVKc="
+ }
+}

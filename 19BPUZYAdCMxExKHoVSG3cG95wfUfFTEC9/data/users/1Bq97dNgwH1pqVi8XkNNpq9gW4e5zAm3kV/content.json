@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "G762FEtvtIYgA55Ak/XPwD/zuflX1xsqeheoiqFiC5FQ6ulV+uPNdrq4pz2CKjWUeUaNA8zMUa2r6dQZ2SsQyno=",
+ "cert_user_id": "360breakingwall@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9779436ff2bd1d338813ada17ca1b577bb47a0a6ac31d73e5c03db84cb44858b",
+   "size": 277754
+  }
+ },
+ "inner_path": "data/users/1Bq97dNgwH1pqVi8XkNNpq9gW4e5zAm3kV/content.json",
+ "modified": 1541426729,
+ "signs": {
+  "1Bq97dNgwH1pqVi8XkNNpq9gW4e5zAm3kV": "G9ypkJxlkWpfLI6r+ZRBKxliobPKJ43wAhMiIFCIDM+ibLp7lyNP4Xh3kY2b8BBRVx/2xNgnKS8CyOkD79n0q7Y="
+ }
+}

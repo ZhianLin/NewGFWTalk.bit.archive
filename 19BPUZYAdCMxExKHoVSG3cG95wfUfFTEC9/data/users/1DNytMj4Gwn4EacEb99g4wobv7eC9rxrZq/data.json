@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1LU4wMtGd5tyX2ABea5zoRZNsdxZFRtoMZ": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LU4wMtGd5tyX2ABea5zoRZNsdxZFRtoMZ": [
+			{
+				"comment_id": 1,
+				"body": "读计算机的都知道，通常有些黑客都是在另外一个暗网站做网站例如在Tor的Browser申请一个. onion的网站论坛",
+				"added": 1518019071
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1JaDwJR1nuRiJpGkU3HK5THjgYqHnpbxGQ": 1
+	}
+}

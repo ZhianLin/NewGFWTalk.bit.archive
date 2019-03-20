@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"3_1PiVvD3GuKz7VLTNg35rjC4YxwjVKvVsvE": [
+			{
+				"comment_id": 1,
+				"body": "本文对周总理描述比较偏见，其他还好，相对客观。",
+				"added": 1536470629
+			}
+		]
+	},
+	"comment_vote": {}
+}

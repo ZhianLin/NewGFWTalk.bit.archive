@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1DW7uVif7nKJWLKf4qNfVDiBuqz9Lw8AU1": [
+			{
+				"comment_id": 1,
+				"body": "大多都是垃圾信息。",
+				"added": 1530973058
+			}
+		]
+	},
+	"comment_vote": {}
+}

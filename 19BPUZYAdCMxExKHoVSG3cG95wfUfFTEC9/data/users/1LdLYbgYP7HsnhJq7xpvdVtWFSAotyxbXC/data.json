@@ -1,0 +1,125 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 19,
+	"comment": {
+		"59_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 1,
+				"body": "[https://github.com/HelloZeroNet/ZeroNet-kivy/releases/download/v0.6.1.1/ZeroNet.apk](https://github.com/HelloZeroNet/ZeroNet-kivy/releases/download/v0.6.1.1/ZeroNet.apk)",
+				"added": 1532794138
+			}
+		],
+		"1_1NJEjNZA32aJNuBTkPVDWSmpxpfqCt6W7d": [
+			{
+				"comment_id": 2,
+				"body": "如果重启电脑后打开，还出现错误，那就要看日志数据。如果正常，那就是软件线程没有完全退出，可手动结束任务，meek-client.exe，tor.exe，ZeroNet.exe三个任务结束掉。",
+				"added": 1534686536
+			},
+			{
+				"comment_id": 4,
+				"body": "Use Tor bridges要关了，我之前也出现过你这种情况。后来软件升级到最新版了，开不开都没啥关系了。可以把配置网页中的能关了的都关了，再一个一个的开了测试。",
+				"added": 1534690140
+			},
+			{
+				"comment_id": 5,
+				"body": "https://github.com/HelloZeroNet/ZeroNet-win/archive/dist/ZeroNet-win.zip\n先下载下来，不用老的数据看看可能正常使用，再把老的数据一个个的复制进去替换。一般只需要users.json和sites.json，其他的删除后都会重新生成的。我当时遇到这个情况，也搞了好久才解决掉。",
+				"added": 1534690357
+			}
+		],
+		"348_1JMXM9eSCpGAocrYxkfUmwiXeqcJw637vC": [
+			{
+				"comment_id": 3,
+				"body": "邻居有矛盾也正常，哪个国家都有，有枪的国家都是直接用枪干。现在有些人就喜欢用大标题。",
+				"added": 1534687134
+			}
+		],
+		"2_1JcHMiQxXHX9q3ZK2LF9rZjvg3MUtTpcK": [
+			{
+				"comment_id": 6,
+				"body": "哈哈，虽然知道是造的消息，不过还是能看到一些人的嘴脸。",
+				"added": 1534944802
+			},
+			{
+				"comment_id": 7,
+				"body": "天朝只要有一点事就是制度问题，你们都去跪舔美爹屁眼吧。",
+				"added": 1534944871
+			}
+		],
+		"2_1DF8dFxXTxMjyZ9o96iPENud3ihbS95Jwb": [
+			{
+				"comment_id": 8,
+				"body": "如果网络协议是一样的，应该可以用，太封闭了，都不了解。",
+				"added": 1534945021
+			},
+			{
+				"comment_id": 9,
+				"body": "> [gopher](#comment_7_1Q7Ebizvdsta5fdhrojC6eyUzRKrPKY5Cb): 朝鲜人都是用U盘在传播信息。\n\n这个应该是拷小电影，就像天朝很多年前的盗版光盘一样。",
+				"added": 1534945100
+			}
+		],
+		"353_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
+			{
+				"comment_id": 10,
+				"body": "和这些都没关系吧？",
+				"added": 1539743182
+			}
+		],
+		"7_17bEVchoz5wXqhDQ5EeXnVjwwNkBzUC1yc": [
+			{
+				"comment_id": 11,
+				"body": "zeronet好用。",
+				"added": 1539743541
+			}
+		],
+		"1_1DvQJKRFe1BYN3gyctA3BkjuxUQN8bRCof": [
+			{
+				"comment_id": 12,
+				"body": "新版的更新很快的呀。",
+				"added": 1540444593
+			}
+		],
+		"3_1MnknYLJ6Lhd7EECW3Tf8x6Z4ya2DFcELU": [
+			{
+				"comment_id": 13,
+				"body": "这个软件还不错。",
+				"added": 1541465837
+			}
+		],
+		"1_113Pbte2GsyoEesvt3JTM8Amr8xCvJ8CER": [
+			{
+				"comment_id": 14,
+				"body": "呵呵",
+				"added": 1541637228
+			}
+		],
+		"20_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 15,
+				"body": "这东西怎么用？",
+				"added": 1551183700
+			}
+		],
+		"1_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m": [
+			{
+				"comment_id": 16,
+				"body": "这个怎么用？",
+				"added": 1551183857
+			},
+			{
+				"comment_id": 17,
+				"body": "> [publicid](#comment_3_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m): 可以在公共代理上点击logout然后输入想用的masterseed\n\n这个只能在代理上切换么？本机不能用主密钥切换吧？",
+				"added": 1551197718
+			}
+		],
+		"1_1B87sQPK5y38oq32kf9rctvDjpQ78xY8vP": [
+			{
+				"comment_id": 18,
+				"body": "现在都没有独立的外网IP，你查到的IP也是共享的IP，所以映射不行。还有就是有独立的IP，很多端口也都给屏了，所以也连不上。远程访问意义不大，如果实在想搞，就开通VPS。",
+				"added": 1551268736
+			}
+		]
+	},
+	"comment_vote": {}
+}

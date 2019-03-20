@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "HC3siQW/RqmU5aOtmNXsgmdklXk1fvLrcrI65SdhDSkn07wS6iIn3JK8MjmQTmya6XI9FW3YaOUGT2TKo1gtOgE=",
+ "cert_user_id": "fxsheeper@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "003626faa059bff1cf14fab92237aacd66a3ae01668d30e9eaa85eacfe26f007",
+   "size": 586
+  }
+ },
+ "inner_path": "data/users/13TGNXPQX2jiRNFWqNDw1tfgYsDvsEBEKX/content.json",
+ "modified": 1531459338,
+ "signs": {
+  "13TGNXPQX2jiRNFWqNDw1tfgYsDvsEBEKX": "G7BzZ3ml8cqA+wYicCMSXF//t5566goEh2Z/IidgCnpxHi6Ww7JgEeyiRkRO0Y7/JKMfKCLeuCProagFezUE9j0="
+ }
+}

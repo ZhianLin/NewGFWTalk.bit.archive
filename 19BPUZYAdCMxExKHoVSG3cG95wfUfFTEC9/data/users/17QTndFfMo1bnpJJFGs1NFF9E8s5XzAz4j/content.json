@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "HBudUsCTzDg+u050hJWBZRQre+HEGjODQTs0jAG/x8VIDerYYTZZsoHGMJdDSHJoYjOWKMWZjoXgo8OdGg8myME=",
+ "cert_user_id": "litecoin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "12488e862e9a669c2e20bb506982661c96f2788f9c724417e10859e54cbbd91a",
+   "size": 13296
+  }
+ },
+ "inner_path": "data/users/17QTndFfMo1bnpJJFGs1NFF9E8s5XzAz4j/content.json",
+ "modified": 1521982429,
+ "signs": {
+  "17QTndFfMo1bnpJJFGs1NFF9E8s5XzAz4j": "G40tOsAJFpBG0C4mByktEEvuu3YSWPXA/8VNlsH/zXZcPRdSMJqybkl1gpq9ZCce3BvOXy2V2R5ldzy1fFcV9CA="
+ }
+}

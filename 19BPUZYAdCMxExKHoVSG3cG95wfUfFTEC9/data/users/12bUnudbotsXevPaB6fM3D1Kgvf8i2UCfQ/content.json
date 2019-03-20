@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "G9sSfTdHFAami8Nb53ePmz8kb/xtXiyBxX0mrcPmFEUwxjIhKjlCoRmrDBoiJF+KWLIEdfkpX9y/hXYMhcDEqEw=",
+ "cert_user_id": "upce@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "610cf061ed3d3956456831c5ed257bb5ff5122d395a1c2453b756d81a6500094",
+   "size": 548
+  }
+ },
+ "inner_path": "data/users/12bUnudbotsXevPaB6fM3D1Kgvf8i2UCfQ/content.json",
+ "modified": 1521787193,
+ "signs": {
+  "12bUnudbotsXevPaB6fM3D1Kgvf8i2UCfQ": "GwjGoZpdU3RofPwXa+PrWN76TkVx6BxRT85+E9TnHUrSHubYUUnLubenobFjP/2GfWOARxsZUcfnVjR6G3ILcgU="
+ }
+}

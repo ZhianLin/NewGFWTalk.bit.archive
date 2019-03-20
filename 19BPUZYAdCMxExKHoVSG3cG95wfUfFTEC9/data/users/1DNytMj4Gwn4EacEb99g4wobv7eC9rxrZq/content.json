@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "G0+w5G8ecmccNHdEM8rGtq5liw2x0NkCVdXC4UfT5R+nWixA0ekDQE8ZOwlPQsbg2zkkjXIBaD+7aF7hEm8Jdrk=",
+ "cert_user_id": "christinarosa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "74a619c4efb8d275f99ae2faedbc82979e774b9db6b46a542d701ef8996138d4",
+   "size": 469
+  }
+ },
+ "inner_path": "data/users/1DNytMj4Gwn4EacEb99g4wobv7eC9rxrZq/content.json",
+ "modified": 1518155598,
+ "signs": {
+  "1DNytMj4Gwn4EacEb99g4wobv7eC9rxrZq": "G8C077IWCQgTXV7CdrgB/XjloZJM46rR1J+7xh3xnY1LV7IPtyy04ctrIdH3kJPJaaffzzaMhkhoi0xyFlJ0iV8="
+ }
+}

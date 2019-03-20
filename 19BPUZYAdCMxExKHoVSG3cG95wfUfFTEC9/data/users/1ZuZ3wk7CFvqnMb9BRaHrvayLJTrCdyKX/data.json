@@ -1,0 +1,344 @@
+{
+	"next_topic_id": 9,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "請問如何成為I2P出口節點？",
+			"body": "請問如何成為I2P出口節點？可以給我一點指點嗎？\n\n自己嘗試了一些設定，都沒有辦法正常運轉，網上也找不到教學。",
+			"added": 1508379831,
+			"parent_topic_uri": "10_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 2,
+			"title": "請問在中國架設ZeroNet的節點(網站)是否違法？",
+			"body": "每次在租VPS的時候，都會被提醒，請不要做違法的事情，但是我又不知道ZeroNet到底在法律上，合不合法，請問有什麼地方可以查詢到相關資訊嗎？",
+			"added": 1520602913,
+			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 3,
+			"title": "請求多開一個ZER0UP的板快方便大家在零網分享軟體。",
+			"body": "最近我才發現到有一個ZER0UP的檔案分享網站，我個人覺得他是一個很方便大家分享各種軟體的一個好網站，只差這個網站沒有搜尋功能，沒有軟體分類，所以希望能開一個板快，能讓有需要的人介紹它分享軟體，也讓需要下載特定軟體的人，能比較好找到它所需要的軟體，也方便想做節點的人，集中火力。",
+			"added": 1522298904,
+			"parent_topic_uri": "14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 4,
+			"title": "好奇想知道大家的STATS頁面，前三多的連線國家是？",
+			"body": "先分享我的，我的第一名一直都是China\nChina                   613 peers\nUnited States      353 peers\nCanada                 76 peers",
+			"added": 1522655032,
+			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 5,
+			"title": "各位有玩過mastodon嗎？",
+			"body": "mastodon好像是一個去中心化的Twitter，不過去中心化的方式又跟ZeroNet 不太一樣。",
+			"added": 1539783362,
+			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 6,
+			"title": "[ZeroUp]yacy_v1.92_Windows版_P2P架構的搜尋引擎",
+			"body": "在ZeroUp上面看到的有意思的軟體，但是一直下載不下來卡在51MB的位置，所以我自己去官網下載了Windows版本，從新發布到ZeroUp上面，有興趣的朋友，可以下載下來玩玩。\n\nhttp://127.0.0.1:43110/1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc/data/users/1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX/yacy_v1.92_20161226_9000.zip",
+			"added": 1539788390,
+			"parent_topic_uri": "19_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 7,
+			"title": "分享一個在油管看到的，修改歷史欺騙他人的影片。",
+			"body": "http://45.76.222.159:43110/big.kopykate.bit/?Video=1548597578_1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX\n\n\n此影片已經轉載放在ZeroNet 上面中的 KopyKate BIG OFFICIAL\n\n如果之前沒有連結過KopyKate BIG OFFICIAL的話，第一次進入要先等最上面的進度條跑滿，把框架下載完成，在重新點擊一次連結，才會正常的開始傳輸影片檔案。\n\n\n目前除了，自己有再做種之外，還有租一個VPS當作次要的來源<====維持一個月",
+			"added": 1548676904,
+			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 8,
+			"title": "大家新年快樂！！",
+			"body": "祝 大家 新年快樂！！",
+			"added": 1549456994,
+			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		}
+	],
+	"topic_vote": {
+		"20_1G2KAr146veEMjvkrhD3sXMUH1fAuZdswM": 1,
+		"3_12eyn7aqnDpzq5WKEZARAt9imQ1sRagAsm": 1,
+		"1_1LN1GRYvbXGy75FqQsMCUfDaLCrDwUiRRj": 1
+	},
+	"next_comment_id": 41,
+	"comment": {
+		"6_1Cp5ENh2Sxu47yet96HqmFTT998VrExfvQ": [
+			{
+				"comment_id": 1,
+				"body": "雖然我沒有用過I2P，不過你有把在國外連結的I2P種子(清單)，帶回國嗎？",
+				"added": 1508215825
+			}
+		],
+		"2_1JmBwcsrovPGXG9c2VHbYHe7WBBF4xuTq6": [
+			{
+				"comment_id": 2,
+				"body": "> [ikana](#comment_2_14p4dsWSAmnRF1RkfcXmyBpiGXCmTMzLEY): 萌新求问这个码怎么用\n\n這個貌似是BT Sync的同步連結吧？",
+				"added": 1508292761
+			},
+			{
+				"comment_id": 6,
+				"body": "出口節點，好像掛掉了，所以目前只能訪問i2p內網。",
+				"added": 1509088029
+			},
+			{
+				"comment_id": 9,
+				"body": "> [aa121121](#comment_7_12J39qcszfZTTjh4LeojzbwKz3qkYcc9zR): 怎么访问I2P内网，我是小白一个，只能打开路由控制台\n\n請設定你的代理伺服器，對應i2p裡面的I2P HTTP Proxy，就可以了，預設是端口4444。\n\n這個其實跟透過i2p翻牆是一樣的設定方式，只是因為目前公眾的出口節點已經負荷不堪了，所以目前只能成功訪問.i2p結尾的網站。",
+				"added": 1509431250
+			},
+			{
+				"comment_id": 10,
+				"body": "> [yuqian](#comment_45_12zCc2NbwzhGnp9uMuoCT6EEKrEGmBmGiL): https要用4445么\n\n是的，說明是說要這樣設定，但是我覺得全部用「端口4444」貌似也可以。",
+				"added": 1509438843
+			},
+			{
+				"comment_id": 11,
+				"body": "> [aa121121](#comment_8_12J39qcszfZTTjh4LeojzbwKz3qkYcc9zR): 能推荐一些I2P的内网吗？我上去看看，只要把代理服务器的节点改成127.0.0.1，端口改成4444就可以了吗？\n\n對的！但是前提是你的i2p軟體是安裝在你現在使用的這台電腦上。\n\n至於...推薦的內網，我現在也不知道 內網 有什麼好看的，我最常上網內網是i2p wiki。\nhttp://i2pwiki.i2p/index.php?title=Eepsite/Services/Chinese\n這是好心網友編輯的中文內網網址，雖然只有2個網站。",
+				"added": 1509535118
+			}
+		],
+		"1_1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX": [
+			{
+				"comment_id": 3,
+				"body": "分享一下小心得，需要當出口節點需要設定兩個東西一個是I2P裡面的「I2P 隐身服务」，另一個是你需要設定一個代理伺服器，I2P的wiki建議是使用「Privoxy」這個軟體，然後在I2P裡面新增一個HTTP的「I2P 隐身服务」這個服務的端口要跟代理伺服器所提供的端口要一樣，使用「Privoxy」的話預設端口是8118，設定好並且啟動服務之後，最後就把剛剛新增的HTTP「I2P 隐身服务」裡面的「本地目標」的那一大串位置，分享給需要翻牆的朋友做相關後續設定，就可以了。\n\n備註：用I2P翻牆真的很慢速度大約在8~11 KB/s，即使提高出口節點的網速，也沒辦法提升速度。",
+				"added": 1508468616
+			},
+			{
+				"comment_id": 5,
+				"body": "> [littlelittle](#comment_21_14QA11YfgS5ftWwD54YYnTyvRbBRZGouPk): 我觉的这个技术没什么用。\n\n的確，對於純粹需要翻牆的朋友來說，的確沒什麼用，然而也很不好用。",
+				"added": 1508511611
+			}
+		],
+		"1_1CpX6ctRxB7XWZsRZFcgZgPvZRKDte5eM": [
+			{
+				"comment_id": 4,
+				"body": "BT SYNC被墻，聽說有一段時間了，請使用舊版本，並且搭配DHT。",
+				"added": 1508487448
+			},
+			{
+				"comment_id": 12,
+				"body": "> [chaoyueshengsi](#comment_1_15kUSugLwkMT84ScWXoJ7PNuT1gQgViQbr): 为啥新版本把dht给去掉了？\n\n因為官方推出了，中繼站，想圖利，所以去掉了DHT功能。\n\n想要使用DHT的話，請安裝舊版本。",
+				"added": 1509540981
+			}
+		],
+		"3_1Ko7622HKggRGbJny5hCS4n9wwMAVVLTSf": [
+			{
+				"comment_id": 7,
+				"body": "出口節點，好像掛掉了，所以目前只能訪問i2p內網。或是找信任的人架設i2p專用的出口節點給你。",
+				"added": 1509208376
+			},
+			{
+				"comment_id": 8,
+				"body": "> [aa121121](#comment_3_12J39qcszfZTTjh4LeojzbwKz3qkYcc9zR): 怎么用i2p访问暗网网站呢？好像没有可点击的入口\n\n請設定你的代理伺服器，對應i2p裡面的I2P HTTP Proxy，就可以了，預設是端口4444。\n\n這個其實跟透過i2p翻牆是一樣的設定方式，只是因為目前沒有公眾的出口節點，所以目前只能成功訪問.i2p結尾的網站。",
+				"added": 1509273167
+			}
+		],
+		"1_15egberD2AKxmhDhrWz8xCjDKpFeAaS4nn": [
+			{
+				"comment_id": 13,
+				"body": "雖然我不是很了解這兩個的相關原理，但是我覺得您有可能把為什麼需要翻牆才能瀏覽特定網頁這件事情，弄錯了。\n\n牆的設定，是阻擋特定的東西，而不是像是現實中的門衛那樣只允許，特定的東西通過。\n\ni2p的部分，原本的設計上就是拿來瀏覽.i2p的網址(就是所謂的內網)，翻牆功能，算是i2p的而外功能，要使用i2p翻牆你必須要有「出口代理」，目前設定中預設的「出口代理」目前已經不堪負荷了。",
+				"added": 1510742378
+			}
+		],
+		"5_18cRWp8EGniDTB1itbx5WXenypdjStLmoh": [
+			{
+				"comment_id": 14,
+				"body": "分享一點我個人知道的經驗，i2p自己本身並沒有內建成為出口節點的軟體(插建)，你需要自行架設一個代理伺服器(Proxy)並且在i2p上面設定對應的端口，好讓i2p了解，當訪問的網站不是i2p內網的時候，去向這個端口的設備請求連線。\n\n另外，我不知道這樣設定，在不特別公開宣傳的情況下，會不會有其他人擅自連線進來使用你的出口節點，造成而外的流量或是法律責任，另外我玩過兩家VPS，貌似有些VPS會反抗你使用i2p軟體，我遇到的情況是VPS的機器會自動重開機。\n\n另外，我不知道為什麼使用i2p翻牆，速度最快也就4~20 KB/s，即使我設定直通(減少跳轉、和隱密性)速度也快不起來。\n\n備註：暗網地址，在你設定的時候，我記得頁面上會寫，你只要記得複製下來就好，很長一串 然後好像是b32結尾的那個。",
+				"added": 1518394755
+			},
+			{
+				"comment_id": 15,
+				"body": "> [nekox](#comment_149_1GVM7nNzmYJ3ppPCmDTPLozrJF2Z9mgFpF): 可以给那个socks代理设置密码\n\n喔？有這個功能？我下次有機會再來試試看，謝謝你的提醒！",
+				"added": 1518431479
+			}
+		],
+		"8_1KiszkwMfgRjBcSkmnqN69q8bLjueE7pL": [
+			{
+				"comment_id": 16,
+				"body": "我覺得還是這裡好，文章多分類整齊，又有左上角的光環！",
+				"added": 1518431571
+			}
+		],
+		"1_1Rcbd6ojv7zoXDAmHbbt2TBszLPchvh1z": [
+			{
+				"comment_id": 17,
+				"body": "已嘗試幫忙，但是系統說找不到節點。\n\n晚一點，再給你回報狀況。",
+				"added": 1520604016
+			},
+			{
+				"comment_id": 18,
+				"body": "一個小時過去了，目前找到8個節點，但是系統提示說「CONTENT.JSON 下載失敗」。",
+				"added": 1520608080
+			}
+		],
+		"2_1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX": [
+			{
+				"comment_id": 19,
+				"body": "我了解了！謝謝三位的細心說明與解答。\n\n我原本只是在想在中國設立一個節點是否可以有助於，更快速的傳輸檔案，類似CDN的存在。\n\n看起來，這有點爭議，我自己再考慮看看好了，謝謝各位！",
+				"added": 1520649744
+			}
+		],
+		"1_16tyY2ivtRq6nFGQ9B3cZoBmv5Y5Jce6EY": [
+			{
+				"comment_id": 20,
+				"body": "你有給這個docker設定\"儲存空間\"嗎？\n\n我剛剛試了一下，掛載路徑寫『/root/data』貌似就可以了。\n\n你試試看，貌似如果你沒有設定的話系統好像會自動藏在某一個地方的樣子，至於是哪裡我也不知道。",
+				"added": 1521394125
+			},
+			{
+				"comment_id": 21,
+				"body": "結果我們兩個白好心了，主樓根本沒看XD",
+				"added": 1521479094
+			}
+		],
+		"20_164S7NQPD3KDoiVyU8oKx1VmsZM7z161tB": [
+			{
+				"comment_id": 22,
+				"body": "我想這就是去中心化的缺點吧，只能請熱心網友多多幫忙了。\n\n另外我很好奇，擔任新網站的節點，需要多少週轉空間？又需要多少流量呢？要達到神摸程度的網站才不能叫做新網站呢？",
+				"added": 1521479365
+			}
+		],
+		"1_19Sj2AK129B8fTBVMraKccW5YpjbEmCtS": [
+			{
+				"comment_id": 23,
+				"body": "我覺得『ZER0UP』就具備這樣的功能了，只是上載神摸軟體比較合適，和找誰做節點是個問題。",
+				"added": 1522199873
+			}
+		],
+		"4_1G58PQ7Ena3mARGX2p5mYH7yHcBWRLX2Pa": [
+			{
+				"comment_id": 24,
+				"body": "根據我為數不多的經驗，新開的站點連自己的網站都還沒有設計好，就急著發布了，導致網頁根本沒有辦法正常顯示的問題。",
+				"added": 1522200078
+			}
+		],
+		"3_1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX": [
+			{
+				"comment_id": 25,
+				"body": "> [nekox](#comment_194_1GVM7nNzmYJ3ppPCmDTPLozrJF2Z9mgFpF): 非翻墙软件发在其他技术区翻墙软件发在翻墙讨论区\n\n謝謝你的告知，我只是在想獨立一個出來是不是會比較好一點，因為討論區或有分享軟體和討論，兩種文章混搭在一起，討論的文章又偏多，導致有需要下載軟體的朋友，不容易找到文章。",
+				"added": 1522343260
+			}
+		],
+		"3_1CmmSnd99UGinNpZ6FMAxPXSf973S253Pr": [
+			{
+				"comment_id": 26,
+				"body": "阿呦，我以為是新聞呢！結果有毒。",
+				"added": 1522930547
+			}
+		],
+		"3_12eyn7aqnDpzq5WKEZARAt9imQ1sRagAsm": [
+			{
+				"comment_id": 27,
+				"body": "大公司，帶頭製造亂象，ISP輔助擾亂，結合起來就變的很難用了，難用自然就.........\n\n也謝謝你寫的文章，讓有用過的人可以知道過去的事情。",
+				"added": 1522935466
+			}
+		],
+		"311_157kFKiaEbRUds2HCBUpv33t4Unezi6dR6": [
+			{
+				"comment_id": 28,
+				"body": "請問怎摸個卡法？0網不是都是在瀏覽本機檔案媽？",
+				"added": 1523374128
+			}
+		],
+		"9_14ytAKDfNjArMTqGecTi7ginG3aZTsRAum": [
+			{
+				"comment_id": 29,
+				"body": "> [5kkfvk5kfy8546fc](#comment_2_1GFHjNNqH4rNoLCHzwkTY3h1hM5VxVuJ2a): 现在想你交钱还是准备让手机变成专\n\n別想著交錢，對方沒理由為你解鎖，它可以繼續黑你。",
+				"added": 1523374519
+			}
+		],
+		"3_16cJi61bwoCCJAB6sYCYCvdHbdH8kM29aZ": [
+			{
+				"comment_id": 30,
+				"body": "> [alexander666](#comment_11_16cJi61bwoCCJAB6sYCYCvdHbdH8kM29aZ): 没看懂\n\n他的意思應該是你去租個vps然後安裝個Docker然後，在Docker裡面在部屬個【零網】。",
+				"added": 1530862131
+			}
+		],
+		"1_1HuxEpnWQBMk2HkD7DobuwQnqHjqHy4psJ": [
+			{
+				"comment_id": 31,
+				"body": "什麼山寨，這是精簡!!!!!",
+				"added": 1530862183
+			}
+		],
+		"8_17bEVchoz5wXqhDQ5EeXnVjwwNkBzUC1yc": [
+			{
+				"comment_id": 32,
+				"body": "可惜i2p我用起來，整個速度超級慢，最快也就只有30 KB/s。",
+				"added": 1538806445
+			}
+		],
+		"7_17bEVchoz5wXqhDQ5EeXnVjwwNkBzUC1yc": [
+			{
+				"comment_id": 33,
+				"body": "我也覺得zeronet比較好用，雖然zeronet可以玩的服務比較少，但是連線速度比i2p來的快。",
+				"added": 1539783209
+			}
+		],
+		"3_1MnknYLJ6Lhd7EECW3Tf8x6Z4ya2DFcELU": [
+			{
+				"comment_id": 34,
+				"body": "原來是類似BTsync的軟件呀。\n\n我自己還是玩玩ZERO UP就好了，謝謝分享資訊。",
+				"added": 1541563972
+			}
+		],
+		"1_1DvQJKRFe1BYN3gyctA3BkjuxUQN8bRCof": [
+			{
+				"comment_id": 35,
+				"body": "我個人覺得，主要是zero上面，目前沒有神摸特別的內容。\n\n即使，我想要克隆某的牆外的新聞網站，相關技術代碼我也不會，目前也沒有相關的簡易工具提供給大家使用。\n\n這裡還先不管，zero的數據儲存問題，每天 每天的複製新聞到zero上面來，想看新聞的人全部數據都要複製一份到自己的電腦裡面，這樣累積下來的檔案大小太大了。\n\n假如網站克隆了，一年份的新聞數據，新朋友只是想查看這一周的新聞事件，卻要下載全部的檔案，這樣不是很不方便嗎？",
+				"added": 1547542599
+			}
+		],
+		"1_1LN1GRYvbXGy75FqQsMCUfDaLCrDwUiRRj": [
+			{
+				"comment_id": 36,
+				"body": "雖然我暫時用不到，不過可以麻煩稍微說明一下，如何套用這些地址嗎？",
+				"added": 1548329114
+			}
+		],
+		"1_1QCWsG4hmGku3udMEgjjqP4fs4nr1Hs8Lq": [
+			{
+				"comment_id": 37,
+				"body": "可能跑去玩Mastodon了？\n\nhttps://joinmastodon.org/",
+				"added": 1549456966
+			}
+		],
+		"1_15yKNRWCybXiY3uq3N7ypzJ6NwniBrSjhj": [
+			{
+				"comment_id": 38,
+				"body": "HI ！",
+				"added": 1550372238
+			}
+		],
+		"6_1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX": [
+			{
+				"comment_id": 39,
+				"body": "> [d1e2e3p1](#comment_12_13mWgSDnVtF733Z6g9nhBxNuFgSrU9AJeR): 试了一下，但是似乎别人不需要我的数据\n\n這個就沒辦法了，不同人群有不同的喜好。\n\n只能看機緣巧合了。",
+				"added": 1550507836
+			}
+		],
+		"2_1B4HAuapkMBUARLKGgApRuMuf88WiJahVP": [
+			{
+				"comment_id": 40,
+				"body": "> [caliban](#comment_48_1NJEjNZA32aJNuBTkPVDWSmpxpfqCt6W7d): 墙外民主人士多，你不顺着他们的套路说话，你就是反对民主，你就成了五毛。\n\n我看到的案例，都是跟人家發生的不有好的對話，才會講成這樣。",
+				"added": 1551017268
+			}
+		]
+	},
+	"comment_vote": {
+		"31_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": 1,
+		"1_1maRVvPkjC4EEYFGoWuxb2hyjS12do8zP": 1,
+		"21_19naVAHk8V5KPiEvmuJ75fwAs5KVZQv6KC": 1,
+		"50_15veLatSdM1bDkPzfQ13NGY4urYWFYvvDU": 1,
+		"31_1K7tW4WEbso38uMs4RN3W7GihA6tTqrApz": 1,
+		"144_1GVM7nNzmYJ3ppPCmDTPLozrJF2Z9mgFpF": 1,
+		"4_1467emba7EjG4SpESPiaRY6LBgPhUVkRuD": 1,
+		"1_1EXE65SLyhirG8VwiKxmxsrc5wbzbhPQwk": 1,
+		"1_13NPvr9P3kWz1TzyTPtncro6ADniqG7z33": 1,
+		"1_14WGRwSbM55c5DuiSCME94BTj6GozZ48op": 1,
+		"1_19nzrF9XVdPRkpKvA4PTCJKfyUwAg165Nu": 1,
+		"33_15PkTh9DC2wPmrGrQoYVQ6xJLobdanakd4": 1,
+		"26_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1
+	}
+}

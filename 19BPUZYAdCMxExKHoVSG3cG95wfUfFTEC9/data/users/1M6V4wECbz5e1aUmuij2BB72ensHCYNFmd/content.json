@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "G+aeuRPHaokP3ygR8ekTsth+NPR80ltnrZ8/0ZqiXgZx9BwqrDp+OA178Qc7H6GDcsdu9sr/qzeblpJzffvhi4g=",
+ "cert_user_id": "nassau@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a77a616e0d2a558a83b1ea9d7d843031c7f16362d53b3781034cc87796037208",
+   "size": 88254
+  }
+ },
+ "inner_path": "data/users/1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd/content.json",
+ "modified": 1550301693,
+ "signs": {
+  "1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd": "HN4r8rQ9eU97T27gmdbjScsufkhEcOEvsX4QoL21lIHuK84me9GgSk8CQiXmojZAb9t+0dIgMRw9nQsjp4AMJA0="
+ }
+}
