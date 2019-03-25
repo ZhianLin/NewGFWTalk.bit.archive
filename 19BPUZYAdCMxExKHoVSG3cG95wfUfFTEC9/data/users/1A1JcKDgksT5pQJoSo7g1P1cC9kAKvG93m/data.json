@@ -1,5 +1,5 @@
 {
-	"next_topic_id": 3,
+	"next_topic_id": 2,
 	"topic": [
 		{
 			"topic_id": 1,
@@ -7,13 +7,6 @@
 			"body": "`public01public02public03public04public05public06public07public08`\n这个是可以人脑记忆的,方便在不在家时在 https://0net.io 之类的地方用\n对应的zeroid是publicid@zeroid.bit\n最后祝您身体健康🤔",
 			"added": 1551178808,
 			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
-		},
-		{
-			"topic_id": 2,
-			"title": "测试一下管理员删帖功能",
-			"body": "我先用这个公共id发一条内容,然后把它手动删掉,使用60@zid的签名而非publicid@zid的签名",
-			"added": 1553102322,
-			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		}
 	],
 	"topic_vote": {
@@ -22,7 +15,7 @@
 		"2_1B4HAuapkMBUARLKGgApRuMuf88WiJahVP": 1,
 		"1_188Uit7FJJgyMWE3yh6934fKSucopDHgDz": 1
 	},
-	"next_comment_id": 12,
+	"next_comment_id": 13,
 	"comment": {
 		"1_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m": [
 			{
@@ -85,6 +78,13 @@
 				"comment_id": 8,
 				"body": "> [gonggong](#comment_39_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5): 你说的篡改指的是通过高权限软件返回与烧录值不同的值欺骗上层应用吗\n\n感觉应该可以自己动手修改或制作硬件而不用通过软件途径",
 				"added": 1551243585
+			}
+		],
+		"26_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 12,
+				"body": "经常502啊，要不，弄一个捐款，钱用来加内存。要让内存足够，要多少钱？",
+				"added": 1553156321
 			}
 		]
 	},

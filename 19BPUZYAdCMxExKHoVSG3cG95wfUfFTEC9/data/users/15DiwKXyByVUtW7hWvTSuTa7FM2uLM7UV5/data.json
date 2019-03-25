@@ -23,8 +23,10 @@
 			"parent_topic_uri": "13_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		}
 	],
-	"topic_vote": {},
-	"next_comment_id": 55,
+	"topic_vote": {
+		"35_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": 1
+	},
+	"next_comment_id": 65,
 	"comment": {
 		"1_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
 			{
@@ -355,6 +357,74 @@
 				"body": "邓巴数只是个统计学规律，人多其实问题也不大，现在最尴尬的是人少",
 				"added": 1552969015
 			}
+		],
+		"1_13t3sJJF35Eei5GApCSAVFp65aZjjZB5jE": [
+			{
+				"comment_id": 55,
+				"body": "为什么这个帖子没有板块，而且小蓝又是谁，为什么我看不懂你们在说什么？",
+				"added": 1553176178
+			}
+		],
+		"31_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": [
+			{
+				"comment_id": 56,
+				"body": "我个人无所谓，反正我从来不去本站的成人版",
+				"added": 1553176686
+			}
+		],
+		"3_17Nkmf7uWjYV7PQ7ZhpeW2KYZDJdMTwHU6": [
+			{
+				"comment_id": 57,
+				"body": "其实我一直期待什么时候能有新的1984bbs，虽然以我的垃圾程度大概进不去，但能有一批人在里面活跃，一定会比没有强的。",
+				"added": 1553177320
+			}
+		],
+		"3_1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX": [
+			{
+				"comment_id": 58,
+				"body": "zeroup本身有搜索功能啊，而且在自己主页的搜索是能全网搜东西的",
+				"added": 1553177427
+			}
+		],
+		"70_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 59,
+				"body": "禁言型打击报复可还成，过于旺盛的暴言倾向有害id健康",
+				"added": 1553177500
+			}
+		],
+		"1_18JqgXYQvzEHxKm3CyMN3k9JxsPfVpisJm": [
+			{
+				"comment_id": 60,
+				"body": "> [brasidas](#comment_7_1Njgybtqekk8SbuYuwgFJmJwLGbd6YwkxS): 同意 今年考毛概背他那个中国梦 什么八个坚持五位一体四个全面 真的是头都炸了 好多东西相互重复 这里讲一遍那里讲一遍 整体组织结构非常混乱。 另一点是他的论证进入“新时代”的论点都是“更XX”，明明都是量变并没有引起质变，非要强行宣称进入新时代。不说别的，江胡二位理论水平虽然不如毛邓高，但是人家提的观点非常实际，习完全是假大空，似乎就是为了当千古一帝才这么提的。\n他现在就是把前几位韬光养晦好不容易攒下来的家本翻出来当政治资产，向人民邀功。同时膨胀的觉得自己腰杆硬了，打算弯道超车俄罗斯，正面抗衡美国。我能说什么，只能说整个国家的方向盘都在他手上，祈祷这位驾驶技术不咋地的司机不要翻车。毕竟我这种贫穷得移不了民的人，要是国家形势好还有汤喝，要是玩砸了就是被国家拉去填坑的。",
+				"added": 1553178198
+			}
+		],
+		"9_159WoHVCiWnZNsoAoP5y7SxCnXgAd29ANC": [
+			{
+				"comment_id": 61,
+				"body": "我好像猜到那个人看不到帖子的原因了，应该是那位楼主自己的zeronet从旧版本更新到新版的时候没更新成功导致的，并不是小蓝凉了",
+				"added": 1553179052
+			}
+		],
+		"6_13BXkTJitXqtj4eL1qxXNgX45Fv5prutc1": [
+			{
+				"comment_id": 62,
+				"body": "我的windows defender报过一个站有挖矿病毒，Trojan:JS/CoinHive.A；ZeroNet-win-dist\\data\\1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT\\data\\users\\1AdWXZdPUimpXoGNXUBde2CHR7gLf4onxE\\data.json。谁知道这是谁在哪埋的屎？\n另外，建议你自己屏蔽掉rwxy，封禁应当是针对换着id spam的措施，用自己id发东西的你不想看应当使用屏蔽功能。",
+				"added": 1553179284
+			}
+		],
+		"73_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 63,
+				"body": "我反对站务禁短链接，短链明明是有正常用途的，因为能被滥用所以禁，这不是墙的逻辑吗？",
+				"added": 1553179307
+			},
+			{
+				"comment_id": 64,
+				"body": "> [60](#comment_86_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 看看会不会出现scunthorpe效应\nscunthorpe效应是什么意思啊",
+				"added": 1553309199
+			}
 		]
 	},
 	"comment_vote": {
@@ -366,6 +436,8 @@
 		"33_15PkTh9DC2wPmrGrQoYVQ6xJLobdanakd4": 1,
 		"1_16qTpjp1ddudjFu3u588rxe7rWaUX8hJAD": 1,
 		"29_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
-		"42_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1
+		"42_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
+		"7_1Njgybtqekk8SbuYuwgFJmJwLGbd6YwkxS": 1,
+		"35_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1
 	}
 }

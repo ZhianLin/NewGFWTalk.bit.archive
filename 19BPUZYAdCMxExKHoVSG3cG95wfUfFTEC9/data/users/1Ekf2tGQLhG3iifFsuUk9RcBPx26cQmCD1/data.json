@@ -1,5 +1,5 @@
 {
-	"next_topic_id": 27,
+	"next_topic_id": 28,
 	"topic": [
 		{
 			"topic_id": 1,
@@ -165,9 +165,16 @@
 		{
 			"topic_id": 26,
 			"title": "有超过3200个zite的新zeroproxy上线啦,网址https://z.hex3.cf/",
-			"body": "# --> https://z.hex3.cf/ <--\n鄙人家里没矿,买不起内存更大的vps(而且运营商用的是openvz导致我用不了swap),所以zeronet会经常因为内存不足崩掉\n我写了一段sh,每75秒检查一下zeronet是否正常运行(监听43110端口),然后自动重启,所以,\n##如果出现502,等一小会刷新一下就行,最多75秒之内就能解决,请耐心",
+			"body": "# --> https://z.hex3.cf/ <--\n鄙人家里没矿,买不起内存更大的vps(而且运营商用的是openvz导致我用不了swap),所以zeronet会经常因为内存不足崩掉\n我写了[一段sh](/Me.ZeroNetwork.bit/?Post/1BLueGvui1GdbtsjcKqCf4F67uKfritG49/1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1/1553011404),每75秒检查一下zeronet是否正常运行(监听43110端口),然后自动重启,所以,\n##如果出现502,等一小会刷新一下就行,最多75秒之内就能解决,请耐心\n\n19.3.21: 英文论坛上有老外建议我用ulimit限制zn内存使用以防超限,不过貌似并不好使😭\n\n最后祝您,身体健康🙂",
 			"added": 1553082186,
 			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 27,
+			"title": "管理员删帖记录公示处",
+			"body": "记录的信息: 进行删帖操作的管理员,被删帖的发布者,被删帖原标题(若含标题spam则省略),删帖原因,删帖具体原因,删帖前的备份的位置",
+			"added": 1553103398,
+			"parent_topic_uri": "14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		}
 	],
 	"topic_vote": {
@@ -185,7 +192,7 @@
 		"21_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
 		"25_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1
 	},
-	"next_comment_id": 81,
+	"next_comment_id": 97,
 	"comment": {
 		"1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
 			{
@@ -661,6 +668,11 @@
 				"comment_id": 78,
 				"body": "> [p2p](#comment_1296_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 已经给了超版权限，你可以试试再次提醒：修改帖子、管理论坛前请备份全站数据\n\n这里有个备份,打算周更\nhttps://github.com/ZnCl2/NewGFWTalk.bit.archive\n\n如果你愿意的话把GitHub用户名给我,我把你拉进 https://github.com/ZnCl2 里\n未来打算在这个GitHub的org里再加一些像zitelist, blocklist, 常用脚本, 各种备份之类的",
 				"added": 1553095750
+			},
+			{
+				"comment_id": 82,
+				"body": "> [p2p](#comment_1298_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 中心化的东西对匿名不友好。比如注册一个对tor友好的能长期使用的邮箱都很难，注册其它中心化服务都要基于邮箱\n\nhttps://riseup.net/ 了解一下😊",
+				"added": 1553181411
 			}
 		],
 		"31_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
@@ -678,6 +690,90 @@
 				"comment_id": 80,
 				"body": "multisig的功能老外应该是鸽了,因为这个涉及到zeronet代码大动,而且也不安全,因为这个权限一旦给出去就收不回来了,而且搞不好还容易自己被踢出去\n\n而nested是可行的,现在已经通过merge实现了,一个例子就是gitcenter",
 				"added": 1553098365
+			}
+		],
+		"27_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 81,
+				"body": "操作者: @60\n被删帖发布者: @publicid\n原标题: `测试一下管理员删帖功能`\n原因: 其他原因\n具体原因: 测试目的\n删帖前的备份: https://github.com/ZnCl2/NewGFWTalk.bit.archive/blob/a2c8a7a36ea46374e7c797c66b9b39f388ea3714/19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9/data/users/1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m/data.json",
+				"added": 1553103693
+			}
+		],
+		"1_15o2rWx6UkQMKf9ZDJXef9ekBK3j7ELbZG": [
+			{
+				"comment_id": 83,
+				"body": "当然可以问啦,tor也是翻墙的一部分啦",
+				"added": 1553232381
+			}
+		],
+		"70_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 84,
+				"body": "吓死偶嘞,差点以为leaflet又遭不测了\n\n(弱弱的吐个槽,已经不止四五次把leaflet看成leftside了😅)",
+				"added": 1553232517
+			},
+			{
+				"comment_id": 85,
+				"body": "> [p2p](#comment_1301_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 为什么是“又”？\n\n刚看到这个帖子以为是又发生了一次,后来才发现是旧帖被顶上来了",
+				"added": 1553263552
+			}
+		],
+		"73_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 86,
+				"body": "看看会不会出现scunthorpe效应",
+				"added": 1553264748
+			},
+			{
+				"comment_id": 87,
+				"body": "scunthorpe test\n\nhttps://outv.im/main.js\n**htt**ps://outv.im/main.js\n\nhttp://gov.cn/guoqing\n**htt**p://gov.cn/guoqing\n\nhttps://sb.sb/blog/\n**htt**ps://sb.sb/blog/\n\nhttps://kde.org/products/\n**htt**ps://kde.org/products/\n\nhttps://copy.sh/life/\n**htt**ps://copy.sh/life/\n\nhttps://rbc.ru/crypto/\n**htt**ps://rbc.ru/crypto/\n\nhttp://mar.io/bolivien/\n**htt**p://mar.io/bolivien/\n\nhttps://acg.mn/about\n**htt**ps://acg.mn/about\n\nhttps://cmx.im/about\n**htt**ps://cmx.im/about",
+				"added": 1553264867
+			},
+			{
+				"comment_id": 88,
+				"body": "而且, **htt**ps://goo.gl/111111 漏网了\n@p2p",
+				"added": 1553265023
+			},
+			{
+				"comment_id": 90,
+				"body": "> [gonggong](#comment_64_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5): scunthorpe效应是什么意思啊\n\nscunthorpe 是一个地名,但由于其中含有`cunt`(英語,表示女性下體的意思)而經常會被各種地方屏蔽,後來用於指因為一個詞語中間含有關鍵字而錯誤的被屏蔽的現象,例如`人性交流`就很有可能被屏蔽.scunthorpe效應也可以表示屏蔽系統的誤殺.\n\n(還有就是不知道為什麼我打字突然變成正體中文了)",
+				"added": 1553354411
+			},
+			{
+				"comment_id": 92,
+				"body": "> [p2p](#comment_1305_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 没有漏啊，你再试试\n\n我指的是通过给htt三个字母加粗来使链接不显示成链接但可以复制粘贴打开\n\n比如说我原文发的是`**htt**ps://goo.gl/111111`,会漏网\n\n但刚才你回复时格式被删除了,就变成https://goo.gl/111111 就不会漏网\n\n这招对于这样的链接也好使 **htt**ps://example.com/**?**aff=60\n`**htt**ps://example.com/**?**aff=60`\n\n解决方案是在判定前先把链接中的*和_全去掉再判定",
+				"added": 1553443372
+			},
+			{
+				"comment_id": 93,
+				"body": "> [gonggong](#comment_63_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5): 我反对站务禁短链接，短链明明是有正常用途的，因为能被滥用所以禁，这不是墙的逻辑吗？\n\n另外,禁短链接还有一个好处就是可能短链接提供商会收集ip,禁短链接也有安全考虑",
+				"added": 1553443511
+			},
+			{
+				"comment_id": 95,
+				"body": "> [p2p](#comment_1304_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 感谢测试。你能提供更好的正则表达式么？\n\n先把一些常用的短网址(如goo.gl git.io)拉黑,估计仔细想一想应该顶多也就有大概至少二三十多个左右,然后有发现用别的短网址的再往里加,而不是用正则去通配",
+				"added": 1553444066
+			}
+		],
+		"6_13BXkTJitXqtj4eL1qxXNgX45Fv5prutc1": [
+			{
+				"comment_id": 89,
+				"body": "个人感觉可以用做种投票(这也是zeronet选择内容的原理)如果讨厌TA的论坛,不要给TA做种就行,单纯因此封禁恐有不妥",
+				"added": 1553269864
+			}
+		],
+		"2_17nJDYAKkCLzydsK4i5c1fbqXzQB3ahBop": [
+			{
+				"comment_id": 91,
+				"body": "理念不错,但人们已经太习惯于apt了\n(而且我作为一个freebsd用户,已经对和pkg操作高度相似的apt产生重度依赖了,导致我在很多时候即使明知某些劣势仍选择debian系)",
+				"added": 1553442533
+			}
+		],
+		"1_17nJDYAKkCLzydsK4i5c1fbqXzQB3ahBop": [
+			{
+				"comment_id": 96,
+				"body": "(以下只说clearnet上没有的或者很少有的或者被封杀的,次序不分先后也不分好坏)\n各种盗版,种子,很黄很暴力,暴力膜蛤,片(儿化音),wpd,大家都很讨厌而且我也很讨厌的儿童色情,自由的言论,政治不正确内容,恐怖分子的自述信,许久没有更新过的编程随想的博客镜像,恶心猎奇的重口味本子,翻墙软件推荐(但现在比较少了),女装大佬的丁丁的照片,还有等等等等\n\n然而,更多的其实还是和clearnet上一样的内容,比如说很多个人博客还有一些视频分享或者是讨论技术问题的论坛.\n在这里其实基本和clearnet上差不多.",
+				"added": 1553446282
 			}
 		]
 	},

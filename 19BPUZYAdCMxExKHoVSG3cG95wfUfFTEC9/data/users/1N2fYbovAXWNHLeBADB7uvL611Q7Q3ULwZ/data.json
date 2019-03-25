@@ -17,7 +17,7 @@
 		}
 	],
 	"topic_vote": {},
-	"next_comment_id": 21,
+	"next_comment_id": 22,
 	"comment": {
 		"33_1G2KAr146veEMjvkrhD3sXMUH1fAuZdswM": [
 			{
@@ -149,6 +149,13 @@
 				"comment_id": 20,
 				"body": "没有什么能够阻挡",
 				"added": 1551805084
+			}
+		],
+		"1_15o2rWx6UkQMKf9ZDJXef9ekBK3j7ELbZG": [
+			{
+				"comment_id": 21,
+				"body": "> [ninjahattoriku](#comment_1_15o2rWx6UkQMKf9ZDJXef9ekBK3j7ELbZG): 重装一次之后好像恢复了正常，谢谢大家关心。不过这次我装的是英文版，不知道中文版是否还存在这样的问题\n\n新的tor可以直接连，速度还行",
+				"added": 1553360467
 			}
 		]
 	},

@@ -17,7 +17,7 @@
 		}
 	],
 	"topic_vote": {},
-	"next_comment_id": 23,
+	"next_comment_id": 24,
 	"comment": {
 		"37_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
 			{
@@ -154,7 +154,16 @@
 				"body": "riot\nretroshare \ntox \n了解一下",
 				"added": 1552005623
 			}
+		],
+		"26_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 23,
+				"body": "> [publicid](#comment_12_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m): 经常502啊，要不，弄一个捐款，钱用来加内存。要让内存足够，要多少钱？\n\n+1",
+				"added": 1553162117
+			}
 		]
 	},
-	"comment_vote": {}
+	"comment_vote": {
+		"96_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1
+	}
 }
