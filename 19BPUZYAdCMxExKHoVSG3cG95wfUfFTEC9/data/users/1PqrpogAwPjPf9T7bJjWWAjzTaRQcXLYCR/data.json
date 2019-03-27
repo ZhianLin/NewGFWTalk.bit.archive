@@ -17,7 +17,7 @@
 		}
 	],
 	"topic_vote": {},
-	"next_comment_id": 24,
+	"next_comment_id": 31,
 	"comment": {
 		"37_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
 			{
@@ -160,6 +160,41 @@
 				"comment_id": 23,
 				"body": "> [publicid](#comment_12_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m): 经常502啊，要不，弄一个捐款，钱用来加内存。要让内存足够，要多少钱？\n\n+1",
 				"added": 1553162117
+			},
+			{
+				"comment_id": 24,
+				"body": "> [60](#comment_98_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 已剁手,应该除了有人手欠点shutdown之外就不会再出502了\n\n正常情况下，开了代理插件，没人有权限关闭或者升级等（包括服务器拥有者）。除非关闭代理插件，这肯定什么地方出问题了",
+				"added": 1553617696
+			},
+			{
+				"comment_id": 25,
+				"body": "> [60](#comment_101_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 我也感觉有问题,可能是某些猎奇的bug吧\n\n你是否在zeronet.conf 中写了multiuser_local行",
+				"added": 1553618416
+			},
+			{
+				"comment_id": 26,
+				"body": "> [60](#comment_102_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 是,为了省内存,而且每次登入之后不用再跑到zeroid.bit去就能重新登入\n\n这就对了，你应该要删除这一行，这样别人就不能随便改你的代理设置了。",
+				"added": 1553620099
+			},
+			{
+				"comment_id": 27,
+				"body": "这样看来zeronet是没有bug的。",
+				"added": 1553620254
+			},
+			{
+				"comment_id": 28,
+				"body": "> [60](#comment_104_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 但是这样我每次输入masterseed之后还要跑到zeroid.bit才能重新登入,不知道有没有一种方法既能阻止改设置还能不用跑到zeroid.bit就能重新登入\n\n从multiuser插件代码中，可以看见可以在zeronet.conf中设置本地主人masterseed，只有该用户可以在不关闭multiuser插件下控制设置。\n至于你所说的那种每次不登陆zeroid，倒不是很了解",
+				"added": 1553620539
+			},
+			{
+				"comment_id": 29,
+				"body": "最简单的办法就是关闭多用户插件，自己使用。",
+				"added": 1553620686
+			},
+			{
+				"comment_id": 30,
+				"body": "> [pubg](#comment_28_1PqrpogAwPjPf9T7bJjWWAjzTaRQcXLYCR): 从multiuser插件代码中，可以看见可以在zeronet.conf中设置本地主人masterseed，只有该用户可以在不关闭multiuser插件下控制设置。至于你所说的那种每次不登陆zeroid，倒不是很了解\n\n应该是在user.json中设置本地masterseed",
+				"added": 1553621481
 			}
 		]
 	},

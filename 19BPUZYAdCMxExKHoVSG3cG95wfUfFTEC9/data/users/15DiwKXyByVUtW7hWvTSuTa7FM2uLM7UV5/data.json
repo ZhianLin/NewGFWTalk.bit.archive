@@ -26,7 +26,7 @@
 	"topic_vote": {
 		"35_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": 1
 	},
-	"next_comment_id": 65,
+	"next_comment_id": 68,
 	"comment": {
 		"1_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
 			{
@@ -398,6 +398,11 @@
 				"comment_id": 60,
 				"body": "> [brasidas](#comment_7_1Njgybtqekk8SbuYuwgFJmJwLGbd6YwkxS): 同意 今年考毛概背他那个中国梦 什么八个坚持五位一体四个全面 真的是头都炸了 好多东西相互重复 这里讲一遍那里讲一遍 整体组织结构非常混乱。 另一点是他的论证进入“新时代”的论点都是“更XX”，明明都是量变并没有引起质变，非要强行宣称进入新时代。不说别的，江胡二位理论水平虽然不如毛邓高，但是人家提的观点非常实际，习完全是假大空，似乎就是为了当千古一帝才这么提的。\n他现在就是把前几位韬光养晦好不容易攒下来的家本翻出来当政治资产，向人民邀功。同时膨胀的觉得自己腰杆硬了，打算弯道超车俄罗斯，正面抗衡美国。我能说什么，只能说整个国家的方向盘都在他手上，祈祷这位驾驶技术不咋地的司机不要翻车。毕竟我这种贫穷得移不了民的人，要是国家形势好还有汤喝，要是玩砸了就是被国家拉去填坑的。",
 				"added": 1553178198
+			},
+			{
+				"comment_id": 66,
+				"body": "> [bigpande](#comment_18_1N9pfJ6tBfN9ppNcHKcEVi7YRoLGoSJe5h): 初中生。关于阿乐如何上台的问题,谈几点自己的看法。  [...]\n都来0网了，能不能把自我审查那套放一放，说人能听懂的话。在这里指名道姓就可以了，不需要缩写和代称。黑话也许是表网上和人交流太久留下的习惯，但现在的第一要务是让更多的人看到你想说什么。一点建议，无意引战，不介意的话还是希望你来翻译一下。",
+				"added": 1553657802
 			}
 		],
 		"9_159WoHVCiWnZNsoAoP5y7SxCnXgAd29ANC": [
@@ -424,6 +429,18 @@
 				"comment_id": 64,
 				"body": "> [60](#comment_86_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 看看会不会出现scunthorpe效应\nscunthorpe效应是什么意思啊",
 				"added": 1553309199
+			},
+			{
+				"comment_id": 67,
+				"body": "> [60](#comment_95_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 先把一些常用的短网址(如goo.gl git.io)拉黑,估计仔细想一想应该顶多也就有大概至少二三十多个左右,然后有发现用别的短网址的再往里加,而不是用正则去通配\n二三十个覆盖率可低了点，随手搜了一下\nhttp://longurl.sinaapp.com/services.html\n这个网站列了300多个常用短网址列表\nhttps://github.com/sambokai/ShortURL-Services-List/\ngithub上搜\"short url list\"找到的，600+条\n把这些个去下重用上应该就差不多了",
+				"added": 1553658515
+			}
+		],
+		"1_17nJDYAKkCLzydsK4i5c1fbqXzQB3ahBop": [
+			{
+				"comment_id": 65,
+				"body": "你可以先去zeroup上开心地玩耍一会儿，还有[Jad](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/16bpvKnuiVmHqmLGZKke2Rf4XWaZ5e7ZhB/jad@zeroid.bit)这个人分享出来一些东西",
+				"added": 1553656925
 			}
 		]
 	},
@@ -438,6 +455,7 @@
 		"29_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
 		"42_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
 		"7_1Njgybtqekk8SbuYuwgFJmJwLGbd6YwkxS": 1,
-		"35_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1
+		"35_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
+		"95_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1
 	}
 }
