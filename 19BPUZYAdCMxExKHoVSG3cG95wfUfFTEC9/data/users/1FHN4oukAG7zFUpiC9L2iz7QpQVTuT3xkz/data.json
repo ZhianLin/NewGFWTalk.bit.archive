@@ -1,5 +1,5 @@
 {
-	"next_topic_id": 48,
+	"next_topic_id": 49,
 	"topic": [
 		{
 			"topic_id": 1,
@@ -308,6 +308,13 @@
 			"body": "好处：VPS的IP躲在CDN后面，就算ip给墙了也能用。没被墙的ip不会被墙。\n坏处：大多数CDN都不够快，免费的更慢\n这两种方法都需要一个VPS、一个域名和一个CDN\n\n##免费域名申请方法（Freenom）\n1. 打开Freenom.com，在中间的输入框输入你想要的域名比如：abc.ml，然后点击检查可用性，如果被注册了，请换一个再点\n2. 选择你想要的域名，点击现在获取，就会加入购物车\n3. 然后点击完成。在确认页面，Period选项默认选的是3个月的，可以最高调到12个月，然后点击Continue继续下一步。\n4. 输入邮箱来获取注册链接，点击Verify My Email Address发送邮件。然后去你的邮箱点他发来的注册链接。\n5. 在页面填上你的资料。国家请不要乱选，他会记录你的ip\n6. 完成订单后就会给出订单号，然后点击下面的Click here to go to your Client Area按钮进入客户中心。\n7. 登陆后，点左上角Domains——My Domains进入我的域名。在Name中填写域名记录（ipv4选A记录，ipv6选AAAA记录）。例如abc.com - x.x.x.x（你VPS的ip)\n8. 在Management Tools——Nameserver中可以更改DNS服务器，**记住这个地方，等会设置CDN的时候要用**\n\n##免费CDN申请方法（Cloudflare）\n1. 注册Cloudflare账号\n2. 访问添加域名页面：https://www.cloudflare.com/a/add-site\n3. 输入你刚搞的免费域名，例如：abc.ml ，填写后点击 Add Site 按钮，再点 Next 按钮\n4. 选择第一个 FREE 套餐，并点击 Confirm Plan 按钮，无视下一个页面直接点 Continue 按钮\n5. 这时候会让你改DNS服务器，复制页面上的两个DNS服务器，打开Freenom的Management Tools——Nameserver，贴在最上面两条。填写正确后，点击 Change Nameservers 按钮保存DNS配置。\n6. 返回 Cloudflare CDN 配置页面，点击 Continue 按钮继续。**生效可能需要几小时到一整天**我们可以在这段时间设置下面的东西\n7. 点击页面顶部 Crypto 按钮，然后找到 SSL 配置并改为 Off 选项\n8. 点击页面顶部的 DNS 按钮，检查域名信息是否自动录入了。如果没有就手动填写域名解析信息。第一个选项选A，第二个输入框输入`@`，第三个输入框填ip。填好后点击Add Record 按钮\n\n##方法一：GoFlyWay\n####设置服务端\n1. 输入`wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/goflyway.sh && chmod +x goflyway.sh && bash goflyway.sh`回车\n2. 输入1回车\n3. 按照下表设置参数\n\n| 参数 | 值 |\n| :----- | :---- |\n| 端口 | 80 |\n| 密码 | 自定 |\n| 伪装网站 | download.windowsupdate.com |\n\n####设置客户端\n1. 下载解压并打开Goflyway Tools客户端https://www.lanzous.com/u/Toyo\n2. 选择CDN模式，填写 Goflyway 账号、端口和密码\n3. 点击 浏览 按钮，选择命令行版客户端文件（也在压缩包里）\n4. 启动代理\n\n##方法二：V2Ray\nv2ray设置有点复杂，等我搞定了再更新吧",
 			"added": 1537969895,
 			"parent_topic_uri": "10_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 48,
+			"title": "ZeroNet客户端Python 3分支讨论专用楼",
+			"body": "最近Nofish开始把客户端移植到Python 3.x\n[下载](https://github.com/HelloZeroNet/ZeroNet/tree/py3)\n[进度和反馈](https://github.com/HelloZeroNet/ZeroNet/issues/1773)\n\n### 如何用上Py3版ZeroNet（Windows 用户）\n1. 安装Python 3.6 [下载地址](https://www.python.org/downloads/release/python-368/)\n2. 升级pip和setuptools\n3. 按照[requirements.txt](https://github.com/HelloZeroNet/ZeroNet/blob/py3/requirements.txt)安装依赖\n4. 下载ZeroNet源码并解压\n5. 下载[OpenSSL](https://indy.fulgan.com/SSL/)解压到`ZeroNet目录\\src\\lib\\openssl`\n6. 启动ZeroNet客户端\n\n欢迎大家踊跃测试和反馈",
+			"added": 1554020311,
+			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		}
 	],
 	"topic_vote": {

@@ -17,7 +17,7 @@
 		}
 	],
 	"topic_vote": {},
-	"next_comment_id": 31,
+	"next_comment_id": 32,
 	"comment": {
 		"37_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
 			{
@@ -195,6 +195,13 @@
 				"comment_id": 30,
 				"body": "> [pubg](#comment_28_1PqrpogAwPjPf9T7bJjWWAjzTaRQcXLYCR): 从multiuser插件代码中，可以看见可以在zeronet.conf中设置本地主人masterseed，只有该用户可以在不关闭multiuser插件下控制设置。至于你所说的那种每次不登陆zeroid，倒不是很了解\n\n应该是在user.json中设置本地masterseed",
 				"added": 1553621481
+			}
+		],
+		"3_1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX": [
+			{
+				"comment_id": 31,
+				"body": "zeroup 上传有限制，文件最小10M,最大200M，且总分享文件最多1GB。\n文件上传没有大小与总量限制，我知道有[MILLCHAN](/1ADQAHsqsie5PBeQhQgjcKmUu3qdPFg6aA/)，和[知乎](/1Q9LrWv27gyToaqDXA2GF2ZSA6PhznX7z1/)。",
+				"added": 1554040617
 			}
 		]
 	},

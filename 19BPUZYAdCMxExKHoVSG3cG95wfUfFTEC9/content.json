@@ -59,8 +59,8 @@
    "size": 7632
   },
   "js/all.js": {
-   "sha512": "6e2b77092b4a0068364efbc109c9779b79945181537ea91b9e872d2d61196127",
-   "size": 224603
+   "sha512": "a22ea872117de8af7c6ca6546f59c7023d0c808be779948685c79562cd6e1751",
+   "size": 225111
   }
  },
  "ignore": "((js|css)/(?!all.(js|css))|data/users/.*db|data/users/.*/.*|.*.py)",
@@ -79,7 +79,7 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1553091207,
+ "modified": 1554031255,
  "postmessage_nonce_security": true,
  "settings": {
   "admin": "p2p",
@@ -98,7 +98,7 @@
  },
  "signers_sign": "HJlogo9TFzdezgz4Jii0QiYjQgLh3r/BaItWCdVFSvmDdpP42QX5M45wRVnSWbJmzoP5jP1VGf3euDs3xudU3sw=",
  "signs": {
-  "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9": "HFi2DM0ApK6dYhLYMZSDpd3R9eLz3c3IiZ5jjVm+lk5HBzPd257qqNGYSu5UkVzQG8BHxcyrRUuwcbAeCr62JVU="
+  "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9": "GwIQoriHrfEItvXgmy/UCnQiBjSULgZmZmAHaIvAhhr4LLU/nM4f/zaM3fTSy/otUSKBlxgJsfUZAytoavZ1ars="
  },
  "signs_required": 1,
  "title": "New GFW Talk",

@@ -1005,7 +1005,8 @@ jQuery.extend( jQuery.easing,
 			text = text.replace(/newnewgfwtalk.bit/gi, 'NewGFWTalk.bit');
                         text = text.replace(/\?(aff|fromuid|fromusername)=/gi, '/affiliate/referral/invite code is forbidden in this site and will be destroyed/?random_number='.concat(Math.random().toString()));
                         text = text.replace(/https?:\/\/([A-Za-z0-9]{2,3}\.[A-Za-z]{2}\/[A-Za-z0-9]{4,8})|tinyurl.com/g, 'http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:73_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/short link is forbidden in this site, click here for more info. ');
-                        text = text.replace(/https?:\/\/fqjsjl.tumblr.com|1AYbnvn1sDELHHVKjFbisqQSThEYmEXxg5/g, 'spam link is forbidden in this site. ');
+                        text = text.replace(/\/\/([A-Za-z0-9]{2,3}\.[A-Za-z]{2}\/[A-Za-z0-9]{4,8})|tinyurl.com/g, '//127.0.0.1:43110/NewGFWTalk.bit/?Topic:73_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/short link is forbidden in this site, click here for more info. ');
+                        text = text.replace(/\/\/fqjsjl.tumblr.com|1AYbnvn1sDELHHVKjFbisqQSThEYmEXxg5/g, 'spam link is forbidden in this site. ');
 			if (window.is_proxy) {
 				back = text.replace(/href="http:\/\/(127.0.0.1|localhost):43110/g, 'href="http://zero');
 				return back.replace(/http:\/\/zero\/([^\/]+\.bit)/g, "http://$1");
@@ -1021,7 +1022,8 @@ jQuery.extend( jQuery.easing,
 			link = link.replace(/newnewgfwtalk.bit/gi, 'NewGFWTalk.bit');
                         link = link.replace(/\?(aff|fromuid|fromusername)=/gi, '/affiliate/referral/invite code is forbidden in this site and will be destroyed/?random_number='.concat(Math.random().toString()));
                         link = link.replace(/https?:\/\/([A-Za-z0-9]{2,3}\.[A-Za-z]{2}\/[A-Za-z0-9]{4,8})|tinyurl.com/g, 'http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:73_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/short link is forbidden in this site, click here for more info. ');
-                        link = link.replace(/https?:\/\/fqjsjl.tumblr.com|1AYbnvn1sDELHHVKjFbisqQSThEYmEXxg5/g, 'spam link is forbidden in this site. ');
+                        link = link.replace(/\/\/([A-Za-z0-9]{2,3}\.[A-Za-z]{2}\/[A-Za-z0-9]{4,8})|tinyurl.com/g, '//127.0.0.1:43110/NewGFWTalk.bit/?Topic:73_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/short link is forbidden in this site, click here for more info. ');
+                        link = link.replace(/\/\/fqjsjl.tumblr.com|1AYbnvn1sDELHHVKjFbisqQSThEYmEXxg5/g, 'spam link is forbidden in this site. ');
 			if (window.is_proxy) {
 				back = link.replace(/http:\/\/(127.0.0.1|localhost):43110/, 'http://zero');
 				return back.replace(/http:\/\/zero\/([^\/]+\.bit)/, "http://$1");

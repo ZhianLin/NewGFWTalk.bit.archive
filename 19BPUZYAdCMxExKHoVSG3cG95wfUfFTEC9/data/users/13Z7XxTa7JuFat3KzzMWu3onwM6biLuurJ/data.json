@@ -491,7 +491,7 @@
 		{
 			"topic_id": 73,
 			"title": "禁发短链接",
-			"body": "背景：\n- http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:72_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+aff\n- http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:2_1GvEy8BTBPWWrpNvkrxphAe81TczBSxJex\n\n短链接如果被禁，鼠标移到自己的帖子上方，左边出现铅笔的图标，点击铅笔图标以后能够编辑帖子，修改成完整链接\n\n如果有恶意短链接漏网，请跟帖，将根据情况调整匹配策略\n\n如果有误杀正常完整链接，请跟帖，将根据情况调整匹配策略",
+			"body": "背景：\n- http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:72_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ/+aff\n- http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:2_1GvEy8BTBPWWrpNvkrxphAe81TczBSxJex\n\n短链接如果被禁，鼠标移到自己的帖子上方，左边出现铅笔的图标，点击铅笔图标以后能够编辑帖子，修改成完整链接\n\n如果有恶意短链接漏网，请跟帖，将根据情况调整匹配策略\n\n如果有误杀正常完整链接，请跟帖，将根据情况调整匹配策略（毕竟目前的正则误判的情况是少数，不加http就可以发出来了，注明让读者复制粘贴打开即可，如 cmx.im/about）",
 			"added": 1521352033,
 			"parent_topic_uri": "14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		},
@@ -573,7 +573,7 @@
 		"23_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
 		"72_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
 	},
-	"next_comment_id": 1306,
+	"next_comment_id": 1309,
 	"comment": {
 		"1_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa": [
 			{
@@ -7918,6 +7918,21 @@
 				"comment_id": 1305,
 				"body": "> [60](#comment_88_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 而且, https://goo.gl/111111 漏网了@p2p\n\n没有漏啊，你再试试",
 				"added": 1553407876
+			},
+			{
+				"comment_id": 1306,
+				"body": "> [60](#comment_92_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 我指的是通过给htt三个字母加粗来使链接不显示成链接但可以复制粘贴打开 [...]\n\n复制粘贴打开对于目标人群这么麻烦，发广告的动力不大吧",
+				"added": 1553862201
+			},
+			{
+				"comment_id": 1307,
+				"body": "> [60](#comment_95_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 先把一些常用的短网址(如goo.gl git.io)拉黑,估计仔细想一想应该顶多也就有大概至少二三十多个左右,然后有发现用别的短网址的再往里加,而不是用正则去通配\n\n> [gonggong](#comment_67_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5): 二三十个覆盖率可低了点，随手搜了一下http://longurl.sinaapp.com/services.html这个网站列了300多个常用短网址列表https://github.com/sambokai/ShortURL-Services-List/github上搜\"short url list\"找到的，600+条把这些个去下重用上应该就差不多了\n\n几百个，还不断会有新的出来，这样搞黑名单并不是什么好主意啊\n毕竟目前的正则误判的情况是少数，不加http就可以发出来了，注明让读者复制粘贴打开即可，如 cmx.im/about",
+				"added": 1553862539
+			},
+			{
+				"comment_id": 1308,
+				"body": "> [60](#comment_111_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 感觉应该把括号里的东西不论带不带http都检查,而且正则通配之前把格式符去掉\n\n攻防真是无止境啊，已改，谢谢反馈",
+				"added": 1554027087
 			}
 		]
 	},

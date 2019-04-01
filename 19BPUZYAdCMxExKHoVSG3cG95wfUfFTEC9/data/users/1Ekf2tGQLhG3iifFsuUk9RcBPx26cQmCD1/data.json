@@ -1,5 +1,5 @@
 {
-	"next_topic_id": 29,
+	"next_topic_id": 30,
 	"topic": [
 		{
 			"topic_id": 1,
@@ -182,6 +182,13 @@
 			"body": "http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/1553490675",
 			"added": 1553513329,
 			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 29,
+			"title": "思考讨论一个哲♂️学问题",
+			"body": "设想这样一种情况: 你和你的朋友和所有家人都被一个邪恶的政府控制着,这个邪恶势力向所有人大脑里都植入了东西可以干扰人的感官\n\n然后你想和一个外面的朋友交换PGP公钥,但他发给你的公钥被替换成了政府的公钥,然后你加密给朋友的东西就都被偷窥了\n或者你感觉不放心,拿着U盘去把朋友的PGP公钥拷了进来,但是一进你的U盘就被掉包了\n然后你即使用U盘拷还是感觉不放心,于是走到你朋友的电脑前背下来了他的PGP公钥,但你的眼睛被随时替换,背下来的是假公钥,然后你念出来给朋友听,但你的嘴也被政府控制了,你因为自己说的是这样的但别人听到的是那样的\n\n所以,问题就来了,如何证明自己现在不是处于这种状态?",
+			"added": 1553706599,
+			"parent_topic_uri": "19_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		}
 	],
 	"topic_vote": {
@@ -197,9 +204,10 @@
 		"20_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
 		"1_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m": 1,
 		"21_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
-		"25_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1
+		"25_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
+		"419_157kFKiaEbRUds2HCBUpv33t4Unezi6dR6": 1
 	},
-	"next_comment_id": 108,
+	"next_comment_id": 116,
 	"comment": {
 		"1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
 			{
@@ -805,6 +813,21 @@
 				"comment_id": 95,
 				"body": "> [p2p](#comment_1304_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 感谢测试。你能提供更好的正则表达式么？\n\n先把一些常用的短网址(如goo.gl git.io)拉黑,估计仔细想一想应该顶多也就有大概至少二三十多个左右,然后有发现用别的短网址的再往里加,而不是用正则去通配",
 				"added": 1553444066
+			},
+			{
+				"comment_id": 109,
+				"body": "> [p2p](#comment_1307_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 几百个，还不断会有新的出来，这样搞黑名单并不是什么好主意啊毕竟目前的正则误判的情况是少数，不加http就可以发出来了，注明让读者复制粘贴打开即可，如 cmx.im/about\n\n这样应该是正解",
+				"added": 1553871832
+			},
+			{
+				"comment_id": 110,
+				"body": "等等,如果 [**htt**ps://goo.gl/233333](//goo.gl/233333)\n`[**htt**ps://goo.gl/233333](//goo.gl/233333)`",
+				"added": 1553871921
+			},
+			{
+				"comment_id": 111,
+				"body": "感觉应该把括号里的东西不论带不带http都检查,而且正则通配之前把格式符去掉",
+				"added": 1553872033
 			}
 		],
 		"6_13BXkTJitXqtj4eL1qxXNgX45Fv5prutc1": [
@@ -841,6 +864,39 @@
 				"body": "一个FreeBSD用户飘过~~",
 				"added": 1553617650
 			}
+		],
+		"62_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 108,
+				"body": "> [martinperselacap](#comment_1_1CvHWXyPVMhKJJK6yEuyq3FSmDsa9hjfNg): result = 10\n\n现在貌似不需要这么弄啦,把spammer直接mute了就好啦",
+				"added": 1553705143
+			}
+		],
+		"94_1JMXM9eSCpGAocrYxkfUmwiXeqcJw637vC": [
+			{
+				"comment_id": 112,
+				"body": "这很成人👍普通小孩子应该确实看不懂这个(＠_＠;)",
+				"added": 1553974675
+			}
+		],
+		"10_159WoHVCiWnZNsoAoP5y7SxCnXgAd29ANC": [
+			{
+				"comment_id": 113,
+				"body": "你的博客是这个/1N1XdcM6xJkXrPW7LGgXviqgRGCma5W92D吗?\n\n试试tor always 能不能解决问题?\ntor连不上可以拿无界给tor当代理\n\n另外就是寝室如果会停电可以看看通宵自习室里有没有电,如果笔记本电脑可以拿过去充电(然而我现在寝室里都是24小时不断电的)",
+				"added": 1553975791
+			},
+			{
+				"comment_id": 115,
+				"body": "> [gut412454](#comment_38_159WoHVCiWnZNsoAoP5y7SxCnXgAd29ANC): 是。我想，可以在一个公共代理上弄一个服务：上传一个压缩包（就用ZeroNet里自带的打包成ZIP文件就行），代理检查签名的正确性和签名的时间，如果签名正确且时间比自己的时间晚，就更新自己的站点。上传文件和ZeroNet的连接不一样，可能不会被封。\n\n应该可以做成一个插件",
+				"added": 1554079596
+			}
+		],
+		"48_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": [
+			{
+				"comment_id": 114,
+				"body": "貌似requirements比原先多了一大堆",
+				"added": 1554079489
+			}
 		]
 	},
 	"comment_vote": {
@@ -855,6 +911,7 @@
 		"28_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
 		"33_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
 		"35_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
-		"3_1BCayRGffLRPbgEcFtxXj9cnKKBDwL9TE2": 1
+		"3_1BCayRGffLRPbgEcFtxXj9cnKKBDwL9TE2": 1,
+		"1114_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
 	}
 }
