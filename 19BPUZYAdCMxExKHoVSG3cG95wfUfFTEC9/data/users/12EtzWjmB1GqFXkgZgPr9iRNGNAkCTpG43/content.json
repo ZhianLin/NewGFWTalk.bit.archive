@@ -5,13 +5,13 @@
  "cert_user_id": "syyc20190318@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "efecc5b56d8a454415e39eb8deec6c25d81a01c6e225f52bfd0a130aa7c8f91d",
-   "size": 2144
+   "sha512": "b586c566a3c24afcac83c1087bfcf0fae34702e43ca578c0d52da9d8cac2aafa",
+   "size": 2282
   }
  },
  "inner_path": "data/users/12EtzWjmB1GqFXkgZgPr9iRNGNAkCTpG43/content.json",
- "modified": 1553832089,
+ "modified": 1554420891,
  "signs": {
-  "12EtzWjmB1GqFXkgZgPr9iRNGNAkCTpG43": "HCRNt90fLTlKJ6HBiKOaTnDg8FmEsek5X01gdJax79xbIib9lXhajg4+5m181eRY79yPs4itXyEnA9sWLlo/9GI="
+  "12EtzWjmB1GqFXkgZgPr9iRNGNAkCTpG43": "HHDA8HnrJaIMzzN9gT7KYnd91lQS8CBwz8X9L6gw1msZZVuxtnY5m53FT6M1qOehA0MGIyb/SlciqS/QtYAy1CU="
  }
 }

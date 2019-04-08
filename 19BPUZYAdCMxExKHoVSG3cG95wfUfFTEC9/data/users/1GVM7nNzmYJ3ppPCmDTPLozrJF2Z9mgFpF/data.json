@@ -133,7 +133,7 @@
 		"73_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
 		"77_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
 	},
-	"next_comment_id": 248,
+	"next_comment_id": 249,
 	"comment": {
 		"11_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": [
 			{
@@ -1760,6 +1760,11 @@
 				"comment_id": 247,
 				"body": "你博客的的链接提供一下，我测试一下能不能打开",
 				"added": 1554174757
+			},
+			{
+				"comment_id": 248,
+				"body": "> [publicid](#comment_14_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m): 1楼不是说了吗\n\n我测试了一下，基本上是秒开",
+				"added": 1554337600
 			}
 		]
 	},

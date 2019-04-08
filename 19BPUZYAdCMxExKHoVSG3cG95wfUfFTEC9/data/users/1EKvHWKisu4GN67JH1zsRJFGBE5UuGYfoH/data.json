@@ -2,13 +2,20 @@
 	"next_topic_id": 1,
 	"topic": [],
 	"topic_vote": {},
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"comment": {
 		"2_183XK126MyXVVXznS1AbBTaH5AHeWfzKwU": [
 			{
 				"comment_id": 1,
 				"body": "> [spacewalky](#comment_1_19AR8ndYAaE6Q2yRAcpTKmkwtyJ5ETPhMC): 别以为匿名就可以说色情了\n\n色情本身就是人性之一，有什么不可说的",
 				"added": 1553753074
+			}
+		],
+		"2_1B4HAuapkMBUARLKGgApRuMuf88WiJahVP": [
+			{
+				"comment_id": 2,
+				"body": "哪边都有智障，哪边智障都够傻",
+				"added": 1554354577
 			}
 		]
 	},
