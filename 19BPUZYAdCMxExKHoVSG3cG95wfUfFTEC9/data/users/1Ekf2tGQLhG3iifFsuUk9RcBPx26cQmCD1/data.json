@@ -214,7 +214,7 @@
 		"25_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
 		"419_157kFKiaEbRUds2HCBUpv33t4Unezi6dR6": 1
 	},
-	"next_comment_id": 116,
+	"next_comment_id": 118,
 	"comment": {
 		"1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
 			{
@@ -740,6 +740,11 @@
 				"comment_id": 107,
 				"body": "> [pubg](#comment_29_1PqrpogAwPjPf9T7bJjWWAjzTaRQcXLYCR): 最简单的办法就是关闭多用户插件，自己使用。\n\n或许也可以魔改源码?\n因为我注意到只要不清浏览器,masterseed就不会登出,想试试可不可以把zeroid存在cookie?这样就可以自动登入?",
 				"added": 1553622513
+			},
+			{
+				"comment_id": 116,
+				"body": "我被DNS投毒了,看来兲朝真的很怕zero net啊😕\nhttps://hex3.cf/screen.jpg",
+				"added": 1554794584
 			}
 		],
 		"31_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
@@ -896,6 +901,11 @@
 				"comment_id": 115,
 				"body": "> [gut412454](#comment_38_159WoHVCiWnZNsoAoP5y7SxCnXgAd29ANC): 是。我想，可以在一个公共代理上弄一个服务：上传一个压缩包（就用ZeroNet里自带的打包成ZIP文件就行），代理检查签名的正确性和签名的时间，如果签名正确且时间比自己的时间晚，就更新自己的站点。上传文件和ZeroNet的连接不一样，可能不会被封。\n\n应该可以做成一个插件",
 				"added": 1554079596
+			},
+			{
+				"comment_id": 117,
+				"body": "我在用cloudflare,而且现在正在被dns污染,所以要像这样\n/?zeronet_peers=50.3.70.3:23333",
+				"added": 1554796977
 			}
 		],
 		"48_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": [

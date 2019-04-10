@@ -17,7 +17,7 @@
 		}
 	],
 	"topic_vote": {},
-	"next_comment_id": 47,
+	"next_comment_id": 49,
 	"comment": {
 		"3_1DmGsXFPPexxcuTRgYZxDRHqGA7CbR3j14": [
 			{
@@ -280,6 +280,20 @@
 				"comment_id": 46,
 				"body": "> [mrc](#comment_195_1JMXM9eSCpGAocrYxkfUmwiXeqcJw637vC): 请问你认为他伟大在哪里？\n\n与邪共斗争，其乐无穷！",
 				"added": 1533002551
+			}
+		],
+		"5_14JRUax64emMFVVxN2ikjz5J74CjqoJtFr": [
+			{
+				"comment_id": 47,
+				"body": "教大家屏蔽这位捣乱的仁兄：打开 ZeroID，点击“在数据库中搜索”，输入此仁兄的名字“yeahyi”，点击“Mute user”，就再也看不到这位仁兄的任何帖子了。",
+				"added": 1554801290
+			}
+		],
+		"1_19CAUZrhQtkzsCEUzWY8tK5RT3EnGheA6k": [
+			{
+				"comment_id": 48,
+				"body": "tor",
+				"added": 1554801419
 			}
 		]
 	},

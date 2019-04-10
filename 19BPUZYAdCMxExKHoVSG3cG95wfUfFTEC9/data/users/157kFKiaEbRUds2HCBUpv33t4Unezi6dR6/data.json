@@ -1,5 +1,5 @@
 {
-	"next_topic_id": 423,
+	"next_topic_id": 424,
 	"topic": [
 		{
 			"topic_id": 1,
@@ -1000,6 +1000,13 @@
 			"title": "不说废话？",
 			"body": "某头目不说废话，对自身的利弊哪个大？\n“……”\n“保密”\n“下一个”\n“换个问题”\n“还问什么？”",
 			"added": 1554330431,
+			"parent_topic_uri": "11_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 423,
+			"title": "越要防被模仿的国知识产权保护越紧； 越要模仿的国知识产权保护越松",
+			"body": "",
+			"added": 1554793540,
 			"parent_topic_uri": "11_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		}
 	],
