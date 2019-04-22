@@ -5,13 +5,13 @@
  "cert_user_id": "ug@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "a9f9b480d93b50100d64585ac6fbd30405f25d51cd996919fb3bbd4b2b2b83f8",
-   "size": 486
+   "sha512": "8eaa327af28bcc4dd577bbe9e95996ffb0c2605586f6ffe7480cd9cd79deb839",
+   "size": 642
   }
  },
  "inner_path": "data/users/1CWuM2Ru6SgQTodbojoHwvJeEdZxvRt2cT/content.json",
- "modified": 1550910188,
+ "modified": 1555893808,
  "signs": {
-  "1CWuM2Ru6SgQTodbojoHwvJeEdZxvRt2cT": "HMqvSdvicJ+L5X5b0g+yc7xe2fT9P+7F+OcQDuFo/LfROoAh2GjonYuIihY3bXyOAyfyUI+hoAEOta0Ob2ZRCoM="
+  "1CWuM2Ru6SgQTodbojoHwvJeEdZxvRt2cT": "HNAX0+qnDWlbZLNrvXqGpRE/1dfaOlG8oBv4+drl75mWZrzV/OP2Qc6rEHyB3cfgdD8nK6QCtxapDJrdcH+MtNA="
  }
 }

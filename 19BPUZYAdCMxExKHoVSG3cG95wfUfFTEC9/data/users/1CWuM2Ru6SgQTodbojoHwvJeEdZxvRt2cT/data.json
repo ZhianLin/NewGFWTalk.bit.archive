@@ -2,7 +2,7 @@
 	"next_topic_id": 1,
 	"topic": [],
 	"topic_vote": {},
-	"next_comment_id": 3,
+	"next_comment_id": 4,
 	"comment": {
 		"8_18cRWp8EGniDTB1itbx5WXenypdjStLmoh": [
 			{
@@ -16,6 +16,13 @@
 				"comment_id": 2,
 				"body": "轮子的无界浏览，速度很快，不过轮子有毒，注意身体。",
 				"added": 1550910188
+			}
+		],
+		"8_159WoHVCiWnZNsoAoP5y7SxCnXgAd29ANC": [
+			{
+				"comment_id": 3,
+				"body": "Bundle不知道啥时候能出来？",
+				"added": 1555893808
 			}
 		]
 	},

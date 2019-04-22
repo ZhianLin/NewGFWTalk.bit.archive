@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "HLL75hobmeOVtPAcCMOWyFWQLJfvL8Z3JRZyjyZoRjKz8A3JxCmx/+f7GAcm1NdS0AuX4s1/IHG+ps1PSPhgSiM=",
+ "cert_user_id": "gofreeworld@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9862b3fb1565fd84500f62042562ab004118bbf6b3d196fea74b62f99f8f48da",
+   "size": 387
+  }
+ },
+ "inner_path": "data/users/1NMYHjdV4AfbiM1k2kBoUiiwyttnDqum29/content.json",
+ "modified": 1555037755,
+ "signs": {
+  "1NMYHjdV4AfbiM1k2kBoUiiwyttnDqum29": "G3Z7bPyMjjW91edC+lWMzDmobUSZPC/KqrzPC4f/nZKvWUimlsuYYg7h+9YguXenTPVK7iZDgiTcbKHir/Wn3cg="
+ }
+}

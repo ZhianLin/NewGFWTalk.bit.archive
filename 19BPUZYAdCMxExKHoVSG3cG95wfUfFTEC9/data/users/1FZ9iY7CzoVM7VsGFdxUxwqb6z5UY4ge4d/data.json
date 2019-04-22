@@ -24,7 +24,7 @@
 		}
 	],
 	"topic_vote": {},
-	"next_comment_id": 107,
+	"next_comment_id": 108,
 	"comment": {
 		"1_1F1cHcV4s1BNh3DUhvu5FL8MdbVnPQ9wTp": [
 			{
@@ -707,6 +707,13 @@
 				"comment_id": 106,
 				"body": "精神上支持你。",
 				"added": 1530971850
+			}
+		],
+		"48_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": [
+			{
+				"comment_id": 107,
+				"body": "怎么启动呀？不会，手动搞不好。",
+				"added": 1555084462
 			}
 		]
 	},

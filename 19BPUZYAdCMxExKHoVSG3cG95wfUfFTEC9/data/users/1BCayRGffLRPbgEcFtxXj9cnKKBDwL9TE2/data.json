@@ -2,7 +2,7 @@
 	"next_topic_id": 1,
 	"topic": [],
 	"topic_vote": {},
-	"next_comment_id": 4,
+	"next_comment_id": 7,
 	"comment": {
 		"24_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
 			{
@@ -23,6 +23,25 @@
 				"comment_id": 3,
 				"body": "不用回收的，只要站点没人访问，慢慢的就会消失的，时间能解决一切。",
 				"added": 1552276035
+			}
+		],
+		"48_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": [
+			{
+				"comment_id": 4,
+				"body": "一样的，有什么好讨论的？",
+				"added": 1555238869
+			},
+			{
+				"comment_id": 5,
+				"body": "> [60](#comment_124_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): py2已经确定将于2020年终止维护,最后一个py2将会是2.7.18现在是2019年,距离py2终止已经不足8个月了,zn也应该与时俱进,转换到py3\n\n我们平时用的py2也一直没更新吧😁",
+				"added": 1555674571
+			}
+		],
+		"8_18cRWp8EGniDTB1itbx5WXenypdjStLmoh": [
+			{
+				"comment_id": 6,
+				"body": "下载最新版的，可以用的呀。我设置了Trackers地址，应该设置好这个就能用。",
+				"added": 1555676787
 			}
 		]
 	},

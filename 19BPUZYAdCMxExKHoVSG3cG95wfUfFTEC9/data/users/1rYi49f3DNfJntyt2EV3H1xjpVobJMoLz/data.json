@@ -24,7 +24,7 @@
 		}
 	],
 	"topic_vote": {},
-	"next_comment_id": 14,
+	"next_comment_id": 15,
 	"comment": {
 		"2_1rYi49f3DNfJntyt2EV3H1xjpVobJMoLz": [
 			{
@@ -115,6 +115,13 @@
 				"comment_id": 13,
 				"body": "吱",
 				"added": 1550816755
+			}
+		],
+		"1_1Aa4hZnTzwkXgsTpveZkovFYCRvbUVCvCH": [
+			{
+				"comment_id": 14,
+				"body": "其实确实没多少人，就那么几个，能堪堪用的也就一个类似twitter的zerome还行。其他的地方全是复制粘贴党，跟机器人没差别",
+				"added": 1555472903
 			}
 		]
 	},

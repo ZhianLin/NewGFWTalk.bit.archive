@@ -214,7 +214,7 @@
 		"25_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
 		"419_157kFKiaEbRUds2HCBUpv33t4Unezi6dR6": 1
 	},
-	"next_comment_id": 118,
+	"next_comment_id": 125,
 	"comment": {
 		"1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
 			{
@@ -522,6 +522,11 @@
 				"comment_id": 97,
 				"body": "自信是说给国人听的罢了",
 				"added": 1553512849
+			},
+			{
+				"comment_id": 121,
+				"body": "> [shanzhichuanxing](#comment_2_17EAtWww26A1GwJsp3tqQvoXS2PG5nmmmo): 因为，那几年，[...]中国的网络会开放的。\n\n如果真的认为会开放就太naïve了,现在的审查是打着审查谣言的旗号,实际上只要对某些官员不利的,不论真假一律封杀,而且还会扣上谣言的帽子\n正如古话,\"防民之口甚于防川\"",
+				"added": 1555045688
 			}
 		],
 		"115_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
@@ -562,6 +567,11 @@
 				"comment_id": 53,
 				"body": "> [gonggong](#comment_38_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5): ipv6地址一机一码够用，直接像设备码一样烧录硬件，你怎么弄\n\n可以自行篡改或者像买卖银行卡一样买别人的身份",
 				"added": 1551099708
+			},
+			{
+				"comment_id": 122,
+				"body": "> [gofreeworld](#comment_1_1NMYHjdV4AfbiM1k2kBoUiiwyttnDqum29): 只要能够查到发布信息的ip在那个时间段是那台设备哪个人的就可以了，不需要精准到每个人绑定唯一ipv6地址啊。\n\n所以设备防护也是很重要的,即如何让人无法查明某ip在某时间对应的设备",
+				"added": 1555045815
 			}
 		],
 		"1_1MnknYLJ6Lhd7EECW3Tf8x6Z4ya2DFcELU": [
@@ -913,6 +923,37 @@
 				"comment_id": 114,
 				"body": "貌似requirements比原先多了一大堆",
 				"added": 1554079489
+			},
+			{
+				"comment_id": 124,
+				"body": "> [lchh](#comment_8_1HuxEpnWQBMk2HkD7DobuwQnqHjqHy4psJ): 关键是改善了什么？如果抗干扰能力没有提升。就没啥意义了。\n\n> [amx](#comment_4_1BCayRGffLRPbgEcFtxXj9cnKKBDwL9TE2): 一样的，有什么好讨论的？\n\n[py2已经确定将于2020年终止维护](https://www.python.org/dev/peps/pep-0373/),最后一个py2将会是2.7.18\n现在是2019年,距离py2终止已经不足8个月了,zn也应该与时俱进,转换到py3",
+				"added": 1555293258
+			}
+		],
+		"5_14JRUax64emMFVVxN2ikjz5J74CjqoJtFr": [
+			{
+				"comment_id": 118,
+				"body": "刚点进来差点以为这货又换马甲继续刷屏了😅",
+				"added": 1554882971
+			},
+			{
+				"comment_id": 119,
+				"body": "> [curiousguy](#comment_47_1G9zSma9ku5MpqT26vFf95BEidzudtoSTr): 教大家屏蔽这位捣乱的仁兄：打开 ZeroID，点击“在数据库中搜索”，输入此仁兄的名字“yeahyi”，点击“Mute user”，就再也看不到这位仁兄的任何帖子了。\n\n还有一种更简单的方法就是在[这个页面](?Topics:11_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa)的帖子列表中点一下标题下面的yeahyi然后就会弹出菜单点屏蔽就行",
+				"added": 1554883653
+			}
+		],
+		"4_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": [
+			{
+				"comment_id": 120,
+				"body": "是厄瓜多尔把他出卖了\n由此可见,zf从不会信守承诺,都是为了利益",
+				"added": 1555045356
+			}
+		],
+		"13_1GDtf6kkYiCtruw42QmAeaHG1HsrWFywkg": [
+			{
+				"comment_id": 123,
+				"body": "印象中好像在编程随想博客上看过鸡蛋的那个段子\n而且虽然是段子,但说的很精辟,很符合现在情况",
+				"added": 1555046058
 			}
 		]
 	},

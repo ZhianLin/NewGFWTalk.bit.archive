@@ -5,13 +5,13 @@
  "cert_user_id": "wfeaw@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "ade3a9636adbaabf813ae75eadc0a253d74eb3f34126172e2fab185ce1e6e96b",
-   "size": 602
+   "sha512": "9946781a69ff4c8068fdde1868d55e43c61915ec0b4fa7fba23a05029e28bbb9",
+   "size": 1050
   }
  },
  "inner_path": "data/users/1JXC3AA82wFgzK5o98GiED7f2LgdyaH6bF/content.json",
- "modified": 1485851838,
+ "modified": 1555663110,
  "signs": {
-  "1JXC3AA82wFgzK5o98GiED7f2LgdyaH6bF": "G3VogxLUmN8uBZiQzFBIrT/PJLeR96wcA7D9ZFbsePrceAT6ZvcKR/Yvmh4LLbOoigwTkJoBtB9slcchhgMf3BA="
+  "1JXC3AA82wFgzK5o98GiED7f2LgdyaH6bF": "HPmiMHvFYOQmU0ElhhdDB9wPo8KyvkgAkVFrlStfDKg5K6t5UUFmrzFW7sk3SCj5HA5o24l+xOFa0/9aJpc/Qow="
  }
 }

@@ -2,7 +2,7 @@
 	"next_topic_id": 1,
 	"topic": [],
 	"topic_vote": {},
-	"next_comment_id": 6,
+	"next_comment_id": 7,
 	"comment": {
 		"2_14G4vyhVggDam2fd9PHgKzTVBYZ59NKaxd": [
 			{
@@ -37,6 +37,13 @@
 				"comment_id": 5,
 				"body": "滚",
 				"added": 1538976782
+			}
+		],
+		"2_1Aa4hZnTzwkXgsTpveZkovFYCRvbUVCvCH": [
+			{
+				"comment_id": 6,
+				"body": "是的",
+				"added": 1555627531
 			}
 		]
 	},

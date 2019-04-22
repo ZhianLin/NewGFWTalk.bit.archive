@@ -1,5 +1,5 @@
 {
-	"next_topic_id": 4,
+	"next_topic_id": 5,
 	"topic": [
 		{
 			"topic_id": 1,
@@ -21,12 +21,20 @@
 			"body": "http://127.0.0.1:43110/18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh/?Video=1521197163_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5",
 			"added": 1521198963,
 			"parent_topic_uri": "13_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 4,
+			"title": "阿桑奇被捕",
+			"body": "世界又糟糕了一点呢。\n阿桑奇今天下午在厄瓜多尔大使馆被英国警察带走，阿桑奇拒绝离开，并大骂fuck you，被英国警察抬走。",
+			"added": 1554985339,
+			"parent_topic_uri": "11_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		}
 	],
 	"topic_vote": {
-		"35_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": 1
+		"35_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": 1,
+		"26_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1
 	},
-	"next_comment_id": 69,
+	"next_comment_id": 72,
 	"comment": {
 		"1_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
 			{
@@ -314,6 +322,11 @@
 				"comment_id": 48,
 				"body": "> [60](#comment_68_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 是吗？我感觉好像最近又好些了，今天中午刚刚用过meek-azure\n我用meek-azure还是上不去\n> [amx](#comment_10_1BCayRGffLRPbgEcFtxXj9cnKKBDwL9TE2): 已经不好使很久了。\n不，就是3号或者4号的事，可能之前也凉过但是又活了",
 				"added": 1552125603
+			},
+			{
+				"comment_id": 69,
+				"body": "> [fastmod](#comment_18_1L1UG7n2NqARsPheXq9y4wumdwiaez9ZJS): azure  是被封了\n建议你把重复消息删一下，看得难受。现在wtm要上tor都得搞前置代理了，难受的呀",
+				"added": 1555052671
 			}
 		],
 		"21_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
@@ -449,7 +462,15 @@
 				"body": "干脆你这个人就是政府造，迫真缸中之脑，不具备可证明或可证伪性的废物命题Q.E.D.（调侃语气）",
 				"added": 1553768820
 			}
-		]
+		],
+		"4_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": [
+			{
+				"comment_id": 70,
+				"body": "> [60](#comment_120_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1): 是厄瓜多尔把他出卖了由此可见,zf从不会信守承诺,都是为了利益\n我看着一群人说不如斯诺登跑俄罗斯跑得好就想笑，哪个国家只要需要交易一波都是说卖就卖，且不说斯诺登跑路的时候就是阿桑奇和维基解密帮的忙。只是阿桑奇的维基解密是输送情报的管道，斯诺登就那一把情报捅出去就完事难有后续，价值完全不一个量级。就看有没有合适卖你卖上的价。",
+				"added": 1555053008
+			}
+		],
+		"419_157kFKiaEbRUds2HCBUpv33t4Unezi6dR6": []
 	},
 	"comment_vote": {
 		"2_1B87sQPK5y38oq32kf9rctvDjpQ78xY8vP": 1,
@@ -463,6 +484,7 @@
 		"42_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
 		"7_1Njgybtqekk8SbuYuwgFJmJwLGbd6YwkxS": 1,
 		"35_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
-		"95_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1
+		"95_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
+		"60_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1
 	}
 }

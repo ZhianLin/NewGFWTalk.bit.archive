@@ -64,7 +64,7 @@
 		"1_1LN1GRYvbXGy75FqQsMCUfDaLCrDwUiRRj": 1,
 		"26_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1
 	},
-	"next_comment_id": 41,
+	"next_comment_id": 42,
 	"comment": {
 		"6_1Cp5ENh2Sxu47yet96HqmFTT998VrExfvQ": [
 			{
@@ -324,6 +324,13 @@
 				"comment_id": 40,
 				"body": "> [caliban](#comment_48_1NJEjNZA32aJNuBTkPVDWSmpxpfqCt6W7d): 墙外民主人士多，你不顺着他们的套路说话，你就是反对民主，你就成了五毛。\n\n我看到的案例，都是跟人家發生的不有好的對話，才會講成這樣。",
 				"added": 1551017268
+			}
+		],
+		"1_1Aa4hZnTzwkXgsTpveZkovFYCRvbUVCvCH": [
+			{
+				"comment_id": 41,
+				"body": "我用docker新開的也會有這樣的問題，不知道怎摸一回事。\n\n其他zeronet的站點，看起來卻好像都正常。\n",
+				"added": 1555505194
 			}
 		]
 	},

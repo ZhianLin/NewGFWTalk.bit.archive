@@ -133,7 +133,7 @@
 		"73_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
 		"77_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
 	},
-	"next_comment_id": 249,
+	"next_comment_id": 251,
 	"comment": {
 		"11_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": [
 			{
@@ -1765,6 +1765,20 @@
 				"comment_id": 248,
 				"body": "> [publicid](#comment_14_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m): 1楼不是说了吗\n\n我测试了一下，基本上是秒开",
 				"added": 1554337600
+			}
+		],
+		"1_1Aa4hZnTzwkXgsTpveZkovFYCRvbUVCvCH": [
+			{
+				"comment_id": 249,
+				"body": "多同步一会，然后刷新就能看到了",
+				"added": 1555480299
+			}
+		],
+		"8_159WoHVCiWnZNsoAoP5y7SxCnXgAd29ANC": [
+			{
+				"comment_id": 250,
+				"body": "现在有Py3的ZeroNet客户端了",
+				"added": 1555895365
 			}
 		]
 	},
