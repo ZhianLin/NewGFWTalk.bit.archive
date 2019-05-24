@@ -5,13 +5,13 @@
  "cert_user_id": "digitalworship@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "7e47a5ce6d91b197394e766a6082618e5576a1e165ab04973ed45294d2f3daf9",
-   "size": 10545
+   "sha512": "2f95fe7cebd1a35ce4b4b2188204403f771d4b44b09e9430e17e4d0d91e46154",
+   "size": 10862
   }
  },
  "inner_path": "data/users/15E9C4NmQ5dcRtVVN86Fb2NMWFSgoPEgco/content.json",
- "modified": 1551363983,
+ "modified": 1556033252,
  "signs": {
-  "15E9C4NmQ5dcRtVVN86Fb2NMWFSgoPEgco": "G9Ytllh5RLEL500Cbh+NjwoNh517rF7W5N9Hk2VR2fcdZs7X1ZJpmtpp5igdvZl3/iS3LnfXIiFSZP6IVPEN+6A="
+  "15E9C4NmQ5dcRtVVN86Fb2NMWFSgoPEgco": "HJwimUJv0/npGdhg+3Vxf61Z7K1FXRFI9JkOlc6gwdr/FTEO2aw42KtyyvStqHyspWMxkWcY2NZUV8tw3rTx5eQ="
  }
 }

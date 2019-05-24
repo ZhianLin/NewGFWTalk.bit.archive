@@ -2,13 +2,20 @@
 	"next_topic_id": 1,
 	"topic": [],
 	"topic_vote": {},
-	"next_comment_id": 2,
+	"next_comment_id": 3,
 	"comment": {
 		"1_1DW7uVif7nKJWLKf4qNfVDiBuqz9Lw8AU1": [
 			{
 				"comment_id": 1,
 				"body": "大多都是垃圾信息。",
 				"added": 1530973058
+			}
+		],
+		"48_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": [
+			{
+				"comment_id": 2,
+				"body": "坐等官方Windows软件发布……",
+				"added": 1555937986
 			}
 		]
 	},

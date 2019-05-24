@@ -214,7 +214,7 @@
 		"25_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
 		"419_157kFKiaEbRUds2HCBUpv33t4Unezi6dR6": 1
 	},
-	"next_comment_id": 125,
+	"next_comment_id": 127,
 	"comment": {
 		"1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
 			{
@@ -928,6 +928,11 @@
 				"comment_id": 124,
 				"body": "> [lchh](#comment_8_1HuxEpnWQBMk2HkD7DobuwQnqHjqHy4psJ): 关键是改善了什么？如果抗干扰能力没有提升。就没啥意义了。\n\n> [amx](#comment_4_1BCayRGffLRPbgEcFtxXj9cnKKBDwL9TE2): 一样的，有什么好讨论的？\n\n[py2已经确定将于2020年终止维护](https://www.python.org/dev/peps/pep-0373/),最后一个py2将会是2.7.18\n现在是2019年,距离py2终止已经不足8个月了,zn也应该与时俱进,转换到py3",
 				"added": 1555293258
+			},
+			{
+				"comment_id": 125,
+				"body": "> [amx](#comment_5_1BCayRGffLRPbgEcFtxXj9cnKKBDwL9TE2): 我们平时用的py2也一直没更新吧😁\n\nbugfix还是有的,但py2718之后就没有bigfix了,(但是肯定会有非官方维护的bugfix,但实力肯定没有psf强,不知道anaconda会不会继续支持py2.7,如果能的话anaconda可能会维护非官方的py2.7bugfix)",
+				"added": 1555922376
 			}
 		],
 		"5_14JRUax64emMFVVxN2ikjz5J74CjqoJtFr": [
@@ -955,6 +960,13 @@
 				"body": "印象中好像在编程随想博客上看过鸡蛋的那个段子\n而且虽然是段子,但说的很精辟,很符合现在情况",
 				"added": 1555046058
 			}
+		],
+		"2_1Nv9coai3XzgiS8VgetKQF7VXxfZZoJq93": [
+			{
+				"comment_id": 126,
+				"body": "现在不好实现这个想法的主要问题在于zn上的页面难以被iframe,而且外部也不能访问zite的数据库,如果改写一下zn客户端,制作一个基于zn但分布式数据库,这种可以实现成明网页面请求本机或者代理服务器上的zn数据库",
+				"added": 1558682092
+			}
 		]
 	},
 	"comment_vote": {
@@ -970,6 +982,7 @@
 		"33_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
 		"35_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": 1,
 		"3_1BCayRGffLRPbgEcFtxXj9cnKKBDwL9TE2": 1,
-		"1114_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1
+		"1114_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"37_1Ce77AdELAi3thjyXvNxH5grWPzMhJehRa": 1
 	}
 }

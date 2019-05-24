@@ -15,7 +15,7 @@
 		"2_1B4HAuapkMBUARLKGgApRuMuf88WiJahVP": 1,
 		"1_188Uit7FJJgyMWE3yh6934fKSucopDHgDz": 1
 	},
-	"next_comment_id": 15,
+	"next_comment_id": 18,
 	"comment": {
 		"1_1A1JcKDgksT5pQJoSo7g1P1cC9kAKvG93m": [
 			{
@@ -97,6 +97,27 @@
 				"comment_id": 14,
 				"body": "> [nekox](#comment_247_1GVM7nNzmYJ3ppPCmDTPLozrJF2Z9mgFpF): 你博客的的链接提供一下，我测试一下能不能打开\n\n1楼不是说了吗",
 				"added": 1554180947
+			}
+		],
+		"2_19AzJi9mcRYJohmYmYooHEBModMimM8R6D": [
+			{
+				"comment_id": 15,
+				"body": "v2ray + https + cloudflare + dnsoverhttps 应该可以无敌了,因为doh=没法封域名,cloudflare=没法封ip,https=gfw不知道你是在用v2ray还是在正常访问某个cloudflare上的网站,这样除非你的客户端上有zf植入的检测软件否则根本不可能封杀也不可能抓到你",
+				"added": 1556005065
+			}
+		],
+		"1_1LfxA3WHkT6aR4QqC4MLAhwcEtzsMURju9": [
+			{
+				"comment_id": 16,
+				"body": "提倡非暴力抗争是正确的,但这不意味着暴力抗争是不对的,但提倡暴力抗争是不对的\n\n暴力抗争通常都会死人,这很不好\n\n虽然一个人非暴力抗争多半是p用木有,但所有人一起非暴力抗争就可以既不用死人也能大家一起迎来自♂️由\n\n所以,如果你想暴力抗争,我不反对,但我提倡非暴力抗争,不提倡暴力抗争\n\n正如一句话: `士兵可以不怕战死,但将军不可以不怕士兵战死`",
+				"added": 1556005784
+			}
+		],
+		"5_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": [
+			{
+				"comment_id": 17,
+				"body": "吼啊！",
+				"added": 1556090128
 			}
 		]
 	},

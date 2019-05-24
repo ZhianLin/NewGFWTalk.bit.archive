@@ -5,13 +5,13 @@
  "cert_user_id": "caliban@zeroid.bit",
  "files": {
   "data.json": {
-   "sha512": "85f9fd2538eba250ec4db5851acafb1e4debb5fb3930b1da3c0eae047dddf2df",
-   "size": 17953
+   "sha512": "dd663729c1ca31487418f6e9f17898d765f76e45a6691ae9dca2287ec32c902d",
+   "size": 18368
   }
  },
  "inner_path": "data/users/1NJEjNZA32aJNuBTkPVDWSmpxpfqCt6W7d/content.json",
- "modified": 1550931350,
+ "modified": 1556205348,
  "signs": {
-  "1NJEjNZA32aJNuBTkPVDWSmpxpfqCt6W7d": "HA3guW9Fg9LSrm8jnrMMx05uA/WwLB0EVc6EfMQ6d0SGElhZ4u3yOZz0CMBN9CyFQuJEUauh/i0OII7NCORMQVw="
+  "1NJEjNZA32aJNuBTkPVDWSmpxpfqCt6W7d": "HJfPBeY6cQajekgEq/ygWUHxOnDgJh90xRts+C4UajiiCyg0z3nKnqbwgjWu8Q+IV/ggLFdhlyPfwzYA9Sd2XYA="
  }
 }

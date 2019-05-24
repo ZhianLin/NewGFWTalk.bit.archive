@@ -312,7 +312,7 @@
 		{
 			"topic_id": 48,
 			"title": "ZeroNet客户端Python 3分支讨论专用楼",
-			"body": "最近Nofish开始把客户端移植到Python 3.x\n[下载](https://github.com/HelloZeroNet/ZeroNet/tree/py3)\n[进度和反馈](https://github.com/HelloZeroNet/ZeroNet/issues/1773)\n\n### 如何用上Py3版ZeroNet（Windows 用户）\n1. 安装Python 3.6 [下载地址](https://www.python.org/downloads/release/python-368/)\n2. 升级pip和setuptools\n3. 按照[requirements.txt](https://github.com/HelloZeroNet/ZeroNet/blob/py3/requirements.txt)安装依赖\n4. 下载ZeroNet源码并解压\n5. 下载[OpenSSL](https://indy.fulgan.com/SSL/)解压到`ZeroNet目录\\src\\lib\\openssl`\n6. 启动ZeroNet客户端\n\n欢迎大家踊跃测试和反馈",
+			"body": "最近Nofish开始把客户端移植到Python 3.x\n[下载](https://github.com/HelloZeroNet/ZeroNet/tree/py3)\n[进度和反馈](https://github.com/HelloZeroNet/ZeroNet/issues/1773)\n\n### 如何用上Py3版ZeroNet（Windows 用户）\n1. 安装Python 3.6 [下载地址](https://www.python.org/downloads/release/python-368/)\n2. 升级pip和setuptools\n3. 下载ZeroNet源码并解压\n4. 在ZeroNet目录里`pip install -r requirements.txt`\n5. 下载[OpenSSL](https://indy.fulgan.com/SSL/)解压到`ZeroNet目录\\src\\lib\\openssl`\n6. 启动ZeroNet客户端\n\n欢迎大家踊跃测试和反馈",
 			"added": 1554020311,
 			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
 		},

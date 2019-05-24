@@ -4,7 +4,7 @@
 	"topic_vote": {
 		"2_19AzJi9mcRYJohmYmYooHEBModMimM8R6D": 1
 	},
-	"next_comment_id": 8,
+	"next_comment_id": 11,
 	"comment": {
 		"2_19AzJi9mcRYJohmYmYooHEBModMimM8R6D": [
 			{
@@ -53,6 +53,27 @@
 				"comment_id": 7,
 				"body": "还能用吧？ 上周开始默认的17个节点都连不上了，tor都开启了",
 				"added": 1552095586
+			}
+		],
+		"2_1Azg1hWjmpRqBHQyXTDepgMSVTqJyL2pd6": [
+			{
+				"comment_id": 8,
+				"body": "会更新么",
+				"added": 1556154665
+			}
+		],
+		"1_1MnknYLJ6Lhd7EECW3Tf8x6Z4ya2DFcELU": [
+			{
+				"comment_id": 9,
+				"body": "i2p",
+				"added": 1556154757
+			}
+		],
+		"5_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5": [
+			{
+				"comment_id": 10,
+				"body": "用处大吗",
+				"added": 1556154852
 			}
 		]
 	},
